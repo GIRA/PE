@@ -1,0 +1,14 @@
+{
+	"category" : "SqueakNxt-Etoys",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "SwitchSensorMorph",
+	"pools" : [
+		 ],
+	"super" : "NxtSensorMorph",
+	"type" : "normal" }

@@ -1,0 +1,3 @@
+accessing
+newPlayerInstance
+	^ SqueakNxtPlayer newUserInstance

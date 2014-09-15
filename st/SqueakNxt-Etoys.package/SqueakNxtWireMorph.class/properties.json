@@ -1,0 +1,14 @@
+{
+	"category" : "SqueakNxt-Etoys-Wiring",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "SqueakNxtWireMorph",
+	"pools" : [
+		 ],
+	"super" : "PEWireMorph",
+	"type" : "normal" }

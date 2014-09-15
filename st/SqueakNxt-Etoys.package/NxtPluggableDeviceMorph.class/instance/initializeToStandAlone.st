@@ -1,0 +1,3 @@
+initialize-release
+initializeToStandAlone
+	self initialize

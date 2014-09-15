@@ -1,0 +1,15 @@
+{
+	"category" : "SqueakNxt-Etoys-Ports",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"originalColor",
+		"port" ],
+	"name" : "PortMorph",
+	"pools" : [
+		 ],
+	"super" : "Morph",
+	"type" : "normal" }

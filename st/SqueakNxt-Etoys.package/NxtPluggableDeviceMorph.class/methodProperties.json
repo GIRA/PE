@@ -1,0 +1,27 @@
+{
+	"class" : {
+		"flippedForm" : "Richo 10/15/2008 14:59",
+		"form" : "Richo 10/15/2008 14:58",
+		"myDevice" : "Richo 10/15/2008 15:00" },
+	"instance" : {
+		"attachmentPoint" : "Richo 3/27/2012 08:29",
+		"attachmentPointCenter" : "Richo 3/27/2012 08:29",
+		"attachmentPointFlippedCenter" : "Richo 3/27/2012 08:29",
+		"categoriesForViewer" : "Richo 1/6/2011 13:56",
+		"connector:" : "Richo 3/27/2012 08:29",
+		"containsPoint:" : "Richo 3/27/2012 08:29",
+		"controlConnection" : "Richo 1/6/2011 12:16",
+		"controlOrientation" : "Richo 3/27/2012 08:33",
+		"delete" : "Richo 3/27/2012 08:33",
+		"device" : "Richo 3/27/2012 08:29",
+		"initialize" : "Richo 3/27/2012 08:33",
+		"initializeAttachmentPoint" : "Richo 3/27/2012 08:34",
+		"initializeToStandAlone" : "Richo 3/27/2012 08:34",
+		"isPlugged" : "Richo 2/11/2009 13:43",
+		"moveToOld:" : "Richo 4/13/2012 16:50",
+		"moveTo:" : "Richo 4/13/2012 16:50",
+		"newPlayerInstance" : "Richo 2/11/2009 14:25",
+		"step" : "Richo 1/6/2011 12:20",
+		"stepTime" : "Richo 10/21/2008 15:42",
+		"unplug" : "Richo 1/6/2011 12:23",
+		"validCategories" : "Richo 3/27/2012 08:29" } }

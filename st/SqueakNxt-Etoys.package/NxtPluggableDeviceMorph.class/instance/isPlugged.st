@@ -1,0 +1,3 @@
+testing
+isPlugged
+	^ device isPlugged

@@ -1,0 +1,11 @@
+{
+	"class" : {
+		"cancelButton" : "Richo 10/2/2008 16:31",
+		"leftButton" : "Richo 10/2/2008 16:26",
+		"okButton" : "Richo 10/2/2008 16:26",
+		"rightButton" : "Richo 10/2/2008 16:26",
+		"vertices:color:borderWidth:borderColor:" : "Richo 10/2/2008 16:35" },
+	"instance" : {
+		"initialize" : "Richo 10/2/2008 16:35",
+		"mouseEnter:forMorph:" : "Richo 10/2/2008 16:35",
+		"mouseLeave:forMorph:" : "Richo 10/2/2008 16:33" } }

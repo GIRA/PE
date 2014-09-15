@@ -1,0 +1,20 @@
+{
+	"class" : {
+		"on:" : "Richo 5/28/2012 15:44" },
+	"instance" : {
+		"cancelClick" : "Richo 5/28/2012 16:35",
+		"initialize" : "Richo 10/2/2008 16:54",
+		"initializeCancelButton" : "Richo 5/28/2012 15:51",
+		"initializeDisplay" : "Richo 5/28/2012 16:11",
+		"initializeLeftButton" : "Richo 5/28/2012 15:51",
+		"initializeOkButton" : "Richo 5/28/2012 15:52",
+		"initializeRightButton" : "Richo 5/28/2012 15:52",
+		"initializeString" : "Richo 4/13/2012 15:56",
+		"initializeSubmorphs" : "Richo 5/28/2012 15:02",
+		"initializeWith:" : "Richo 5/28/2012 15:45",
+		"leftClick" : "Richo 5/28/2012 16:40",
+		"okClick" : "Richo 5/28/2012 16:35",
+		"portName:" : "Richo 3/26/2012 16:02",
+		"rightClick" : "Richo 5/28/2012 16:41",
+		"step" : "Richo 5/28/2012 16:37",
+		"stepTime" : "Richo 5/28/2012 16:01" } }

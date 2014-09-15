@@ -1,0 +1,14 @@
+{
+	"category" : "SqueakNxt-Etoys-Player",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "SqueakNxtPlayer",
+	"pools" : [
+		 ],
+	"super" : "Player",
+	"type" : "normal" }

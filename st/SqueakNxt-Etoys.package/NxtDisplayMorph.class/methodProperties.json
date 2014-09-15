@@ -1,0 +1,19 @@
+{
+	"class" : {
+		"withPortName:" : "Richo 5/28/2012 16:11" },
+	"instance" : {
+		"initialize" : "Richo 5/28/2012 16:02",
+		"initializeConnectionLabelMorph" : "Richo 5/28/2012 16:03",
+		"initializeConnectionPortNameMorph" : "Richo 5/28/2012 16:22",
+		"initializeConnectionStateMorph" : "Richo 5/28/2012 16:03",
+		"initializeSubmorphs" : "Richo 5/28/2012 16:02",
+		"initializeSubmorphsConnected" : "Richo 5/28/2012 16:03",
+		"initializeSubmorphsDisconnected" : "Richo 5/28/2012 16:08",
+		"initializeWith:" : "Richo 5/28/2012 17:35",
+		"portIndex" : "Richo 5/28/2012 16:46",
+		"portIndex:" : "Richo 5/28/2012 16:46",
+		"portName" : "Richo 5/28/2012 16:24",
+		"portNames" : "Richo 5/28/2012 17:48",
+		"portName:" : "Richo 5/28/2012 16:47",
+		"resetSubmorphs" : "Richo 5/28/2012 16:33",
+		"updateConnected:" : "Richo 5/28/2012 16:47" } }

@@ -1,0 +1,5 @@
+initialize-disconnected
+initializeSubmorphsDisconnected
+	self initializeConnectionStateMorph;
+		initializeConnectionLabelMorph;
+		initializeConnectionPortNameMorph

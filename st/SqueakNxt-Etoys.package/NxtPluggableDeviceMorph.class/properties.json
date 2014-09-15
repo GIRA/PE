@@ -1,0 +1,16 @@
+{
+	"category" : "SqueakNxt-Etoys",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"connector",
+		"device",
+		"attachmentPoint" ],
+	"name" : "NxtPluggableDeviceMorph",
+	"pools" : [
+		 ],
+	"super" : "ImageMorph",
+	"type" : "normal" }

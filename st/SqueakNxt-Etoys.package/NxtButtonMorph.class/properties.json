@@ -1,0 +1,14 @@
+{
+	"category" : "SqueakNxt-Etoys-ControlPanel",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"originalColor" ],
+	"name" : "NxtButtonMorph",
+	"pools" : [
+		 ],
+	"super" : "PolygonMorph",
+	"type" : "normal" }

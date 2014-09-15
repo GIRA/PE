@@ -1,0 +1,3 @@
+factory
+myDevice
+	^ NxtMotor new

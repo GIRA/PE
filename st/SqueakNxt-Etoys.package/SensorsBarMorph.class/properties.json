@@ -1,0 +1,14 @@
+{
+	"category" : "SqueakNxt-Etoys-Bars",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"main" ],
+	"name" : "SensorsBarMorph",
+	"pools" : [
+		 ],
+	"super" : "AlignmentMorph",
+	"type" : "normal" }

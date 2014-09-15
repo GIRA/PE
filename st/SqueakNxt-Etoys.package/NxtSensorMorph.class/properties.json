@@ -1,0 +1,14 @@
+{
+	"category" : "SqueakNxt-Etoys",
+	"classinstvars" : [
+		"form" ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "NxtSensorMorph",
+	"pools" : [
+		 ],
+	"super" : "NxtPluggableDeviceMorph",
+	"type" : "normal" }

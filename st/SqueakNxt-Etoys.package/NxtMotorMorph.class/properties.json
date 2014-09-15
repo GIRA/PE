@@ -1,0 +1,15 @@
+{
+	"category" : "SqueakNxt-Etoys",
+	"classinstvars" : [
+		"form" ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"automaticBrake",
+		"lastTimeSent" ],
+	"name" : "NxtMotorMorph",
+	"pools" : [
+		 ],
+	"super" : "NxtPluggableDeviceMorph",
+	"type" : "normal" }

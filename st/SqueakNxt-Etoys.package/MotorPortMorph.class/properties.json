@@ -1,0 +1,14 @@
+{
+	"category" : "SqueakNxt-Etoys-Ports",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "MotorPortMorph",
+	"pools" : [
+		 ],
+	"super" : "PortMorph",
+	"type" : "normal" }

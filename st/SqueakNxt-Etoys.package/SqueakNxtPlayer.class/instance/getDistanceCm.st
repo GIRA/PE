@@ -1,0 +1,3 @@
+sensors
+getDistanceCm
+	^ self getRawValue

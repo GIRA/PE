@@ -1,0 +1,16 @@
+{
+	"category" : "SqueakNxt-Etoys",
+	"classinstvars" : [
+		"lastPortName" ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"nxt",
+		"portName",
+		"controlPanel" ],
+	"name" : "LegoNxtMorph",
+	"pools" : [
+		 ],
+	"super" : "AlignmentMorph",
+	"type" : "normal" }

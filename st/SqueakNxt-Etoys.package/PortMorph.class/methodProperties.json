@@ -1,0 +1,18 @@
+{
+	"class" : {
+		"myDevice" : "Richo 10/15/2008 15:25",
+		"port:" : "Richo 2/16/2009 15:46",
+		"wantedDroppedMorphClasses" : "Richo 10/15/2008 15:21" },
+	"instance" : {
+		"acceptDroppingMorph:event:" : "Richo 2/16/2009 16:00",
+		"defaultPositions" : "Richo 10/15/2008 15:20",
+		"initialize" : "Richo 10/6/2008 16:10",
+		"initializeLetterMorph" : "Richo 2/16/2009 15:47",
+		"letters" : "Richo 10/10/2008 17:01",
+		"mouseDown:forMorph:" : "Richo 2/16/2009 14:48",
+		"mouseEnter:forMorph:" : "Richo 10/2/2008 16:37",
+		"mouseLeave:forMorph:" : "Richo 10/2/2008 16:37",
+		"plugNewDevice" : "Richo 3/5/2009 16:21",
+		"plug:" : "Richo 11/10/2009 12:38",
+		"setPort:" : "Richo 2/16/2009 15:46",
+		"wantsDroppedMorph:event:" : "Richo 2/16/2009 16:00" } }

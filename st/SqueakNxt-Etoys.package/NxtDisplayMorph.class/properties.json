@@ -1,0 +1,17 @@
+{
+	"category" : "SqueakNxt-Etoys-ControlPanel",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"isConnected",
+		"portName",
+		"portNamesCache",
+		"portNamesLastTimeAsked" ],
+	"name" : "NxtDisplayMorph",
+	"pools" : [
+		 ],
+	"super" : "Morph",
+	"type" : "normal" }

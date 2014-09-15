@@ -1,0 +1,15 @@
+{
+	"category" : "SqueakNxt-Etoys-ControlPanel",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"display",
+		"main" ],
+	"name" : "ControlPanelMorph",
+	"pools" : [
+		 ],
+	"super" : "Morph",
+	"type" : "normal" }
