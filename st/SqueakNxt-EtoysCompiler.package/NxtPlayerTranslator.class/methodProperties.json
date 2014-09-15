@@ -1,0 +1,19 @@
+{
+	"class" : {
+		"avoidNameClash" : "Richo 3/30/2012 18:47" },
+	"instance" : {
+		"allMorphs" : "Richo 3/5/2013 17:43",
+		"buttonRules" : "Richo 2/1/2011 11:30",
+		"classCategory" : "Richo 3/30/2012 17:55",
+		"classIncludes" : "Richo 3/30/2012 17:57",
+		"collectMorphs" : "Richo 3/5/2013 17:42",
+		"commonSuperclass" : "Richo 3/30/2012 17:55",
+		"compileSetUpMethod" : "Richo 3/29/2012 14:45",
+		"displayRules" : "Richo 3/30/2012 17:24",
+		"motorRules" : "Richo 2/1/2011 11:30",
+		"nxcIndexOf:in:" : "Richo 3/27/2012 12:56",
+		"programName" : "Richo 8/5/2011 16:47",
+		"rules" : "Richo 3/5/2013 17:56",
+		"sensorRules" : "Richo 3/27/2012 10:54",
+		"soundRules" : "Richo 1/17/2013 18:37",
+		"timerRules" : "Richo 3/5/2013 17:56" } }

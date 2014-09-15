@@ -1,0 +1,15 @@
+{
+	"category" : "SqueakNxt-EtoysCompiler",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "Richo 1/13/2011 09:51",
+	"instvars" : [
+		"motors",
+		"sensors" ],
+	"name" : "NxtPlayerTranslator",
+	"pools" : [
+		 ],
+	"super" : "PlayerTranslator",
+	"type" : "normal" }

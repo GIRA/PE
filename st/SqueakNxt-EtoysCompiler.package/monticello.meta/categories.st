@@ -1,0 +1,1 @@
+SystemOrganization addCategory: #'SqueakNxt-EtoysCompiler'!

@@ -1,0 +1,15 @@
+{
+	"category" : "SqueakNxt-EtoysCompiler",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"port",
+		"deviceName" ],
+	"name" : "NxtCompiledMode",
+	"pools" : [
+		 ],
+	"super" : "NxtProtocol",
+	"type" : "normal" }

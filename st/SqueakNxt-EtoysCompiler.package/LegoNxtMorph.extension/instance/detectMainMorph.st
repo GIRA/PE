@@ -1,0 +1,3 @@
+*squeaknxt-etoyscompiler
+detectMainMorph
+	^ self
