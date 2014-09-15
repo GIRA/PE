@@ -1,0 +1,3 @@
+factory
+typeClass 
+	^ NxcType

@@ -1,0 +1,25 @@
+{
+	"class" : {
+		"forThisPlatform" : "Richo 3/18/2012 16:49",
+		"new" : "Richo 3/18/2012 16:50",
+		"platformName" : "Richo 3/18/2012 16:51" },
+	"instance" : {
+		"beQuiet" : "Richo 12/25/2010 00:45",
+		"decompileProgram" : "Richo 12/25/2010 00:45",
+		"defineMacro:" : "Richo 12/25/2010 00:45",
+		"dontCompile" : "Richo 12/25/2010 00:45",
+		"dontIncludeSystemFile" : "Richo 12/25/2010 00:45",
+		"downloadProgram" : "Richo 12/25/2010 00:46",
+		"downloadProgramAndRun" : "Richo 3/26/2012 17:37",
+		"enhancedFirmware" : "Richo 12/28/2010 18:25",
+		"errorsFile:" : "Richo 12/25/2010 00:46",
+		"execute" : "Richo 3/18/2012 16:52",
+		"fileName:" : "Richo 12/25/2010 00:46",
+		"includePath:" : "Richo 12/25/2010 00:47",
+		"initialize" : "Richo 12/25/2010 00:44",
+		"nbc:" : "Richo 12/29/2010 17:59",
+		"optimizationLevel:" : "Richo 1/3/2011 14:07",
+		"outFile:" : "Richo 12/25/2010 00:47",
+		"portName:" : "Richo 3/26/2012 17:32",
+		"useBluetooth" : "Richo 12/25/2010 00:48",
+		"warningsOn" : "Richo 12/28/2010 18:38" } }

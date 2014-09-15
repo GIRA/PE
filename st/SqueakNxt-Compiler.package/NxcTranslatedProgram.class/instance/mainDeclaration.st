@@ -1,0 +1,3 @@
+accessing
+mainDeclaration
+	^ 'task main();'

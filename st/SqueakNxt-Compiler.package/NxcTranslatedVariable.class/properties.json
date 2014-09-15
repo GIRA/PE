@@ -1,0 +1,14 @@
+{
+	"category" : "SqueakNxt-Compiler-Output",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "NxcTranslatedVariable",
+	"pools" : [
+		 ],
+	"super" : "CTranslatedVariable",
+	"type" : "normal" }

@@ -1,0 +1,1 @@
+Actual implementation of the communication with Nbc in Windows.

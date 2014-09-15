@@ -1,0 +1,3 @@
+factory
+programClass
+	^ NxcTranslatedProgram

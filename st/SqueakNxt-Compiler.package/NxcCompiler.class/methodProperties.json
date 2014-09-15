@@ -1,0 +1,19 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"compileInFileNamed:" : "Richo 3/18/2012 17:00",
+		"downloadUsingBluetooth:" : "Richo 3/27/2012 15:07",
+		"downloadUsingUsb" : "Richo 3/26/2012 17:38",
+		"errorsFileName" : "Richo 12/27/2010 18:14",
+		"execute:" : "Richo 3/19/2012 11:37",
+		"parseErrors" : "Richo 3/27/2012 16:12",
+		"parse:" : "Richo 3/29/2012 20:19",
+		"programFileName" : "Richo 12/29/2010 17:43",
+		"programName" : "Richo 12/27/2010 22:10",
+		"programName:" : "Richo 12/27/2010 16:47",
+		"program:" : "Richo 7/27/2011 18:49",
+		"source" : "Richo 12/27/2010 17:07",
+		"source:" : "Richo 12/27/2010 16:48",
+		"verify" : "Richo 3/18/2012 17:00",
+		"waitUntilNbcFinishes" : "Richo 3/27/2012 16:19" } }

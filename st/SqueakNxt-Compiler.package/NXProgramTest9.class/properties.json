@@ -1,0 +1,15 @@
+{
+	"category" : "SqueakNxt-Compiler-Programs",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"var1",
+		"var2" ],
+	"name" : "NXProgramTest9",
+	"pools" : [
+		 ],
+	"super" : "NXProgram",
+	"type" : "normal" }

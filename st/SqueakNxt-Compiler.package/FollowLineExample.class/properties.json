@@ -1,0 +1,14 @@
+{
+	"category" : "SqueakNxt-Compiler-Programs",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"black" ],
+	"name" : "FollowLineExample",
+	"pools" : [
+		 ],
+	"super" : "NXProgram",
+	"type" : "normal" }

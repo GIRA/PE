@@ -1,0 +1,15 @@
+{
+	"category" : "SqueakNxt-Compiler-Api",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "Richo 12/31/2010 22:03",
+	"instvars" : [
+		"programName",
+		"source" ],
+	"name" : "NxcCompiler",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

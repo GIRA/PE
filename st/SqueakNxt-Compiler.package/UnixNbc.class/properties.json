@@ -1,0 +1,14 @@
+{
+	"category" : "SqueakNxt-Compiler-Api",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "Richo 3/19/2012 12:33",
+	"instvars" : [
+		 ],
+	"name" : "UnixNbc",
+	"pools" : [
+		 ],
+	"super" : "Nbc",
+	"type" : "normal" }

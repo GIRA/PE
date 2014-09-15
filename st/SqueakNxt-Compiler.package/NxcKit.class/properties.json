@@ -1,0 +1,14 @@
+{
+	"category" : "SqueakNxt-Compiler-Translators",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "NxcKit",
+	"pools" : [
+		 ],
+	"super" : "CKit",
+	"type" : "normal" }

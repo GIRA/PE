@@ -1,0 +1,14 @@
+{
+	"category" : "SqueakNxt-Compiler-Translators",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "NxcMethodTranslator",
+	"pools" : [
+		 ],
+	"super" : "CMethodTranslator",
+	"type" : "normal" }
