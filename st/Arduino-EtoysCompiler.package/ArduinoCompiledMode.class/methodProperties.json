@@ -1,0 +1,26 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"activateAnalogPin:" : "Richo 12/23/2011 16:37",
+		"activateDigitalPort:" : "Richo 12/23/2011 16:38",
+		"analogRead:" : "Richo 12/23/2011 16:37",
+		"analogWrite:value:" : "Richo 12/27/2011 15:31",
+		"attachServoToPin:" : "Richo 12/23/2011 16:39",
+		"connectOnPort:boardType:" : "Richo 12/23/2011 16:39",
+		"deactivateAnalogPin:" : "Richo 12/23/2011 16:37",
+		"deactivateDigitalPort:" : "Richo 12/23/2011 16:38",
+		"detachServoFromPin:" : "Richo 12/23/2011 16:39",
+		"digitalPin:mode:" : "Richo 12/23/2011 16:38",
+		"digitalRead:" : "Richo 12/23/2011 16:38",
+		"digitalWrite:value:" : "Richo 12/23/2011 16:39",
+		"disconnect" : "Richo 12/23/2011 16:39",
+		"isCompiled" : "Richo 12/23/2011 15:11",
+		"isConnected" : "Richo 12/23/2011 16:45",
+		"nameSymbol" : "Richo 12/23/2011 16:29",
+		"playTone:duration:pin:" : "Richo 1/18/2013 18:20",
+		"servoOnPin:angle:" : "Richo 12/23/2011 16:39",
+		"valueForInputMode" : "Richo 12/23/2011 16:40",
+		"valueForOutputMode" : "Richo 12/23/2011 16:40",
+		"valueForPwmMode" : "Richo 12/23/2011 16:40",
+		"valueForServoMode" : "Richo 12/23/2011 16:40" } }

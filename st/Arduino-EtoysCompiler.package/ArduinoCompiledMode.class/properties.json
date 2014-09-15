@@ -1,0 +1,14 @@
+{
+	"category" : "Arduino-EtoysCompiler",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"isConnected" ],
+	"name" : "ArduinoCompiledMode",
+	"pools" : [
+		 ],
+	"super" : "ArduinoProtocol",
+	"type" : "normal" }

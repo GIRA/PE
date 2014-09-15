@@ -1,0 +1,11 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"getArduinoMode" : "Richo 12/23/2011 16:16",
+		"isUsingCompiledMode" : "Richo 8/11/2011 16:08",
+		"newScriptorAround:" : "Richo 8/11/2011 16:09",
+		"scriptEditorForNoCng:" : "Richo 8/11/2011 16:09",
+		"scriptEditorFor:" : "Richo 8/11/2011 16:09",
+		"setArduinoMode:" : "Richo 2/29/2012 12:30",
+		"updateScriptEditors" : "Richo 2/29/2012 12:49" } }

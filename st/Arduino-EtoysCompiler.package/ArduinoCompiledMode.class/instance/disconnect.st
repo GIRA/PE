@@ -1,0 +1,3 @@
+connection
+disconnect
+	isConnected := false

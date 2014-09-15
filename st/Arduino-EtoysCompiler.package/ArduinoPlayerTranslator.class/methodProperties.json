@@ -1,0 +1,21 @@
+{
+	"class" : {
+		"allPrimitiveRulesSelectors" : "Richo 1/3/2012 15:50",
+		"on:" : "Richo 8/11/2011 17:21" },
+	"instance" : {
+		"allMorphs" : "Richo 3/6/2013 15:32",
+		"arduinoIndexOf:" : "Richo 3/27/2012 11:42",
+		"arduinoIndexOf:in:" : "Richo 3/27/2012 11:24",
+		"classCategory" : "Richo 3/30/2012 17:57",
+		"classIncludes" : "Richo 3/30/2012 17:57",
+		"collectMorphs" : "Richo 3/5/2013 17:41",
+		"commonDevicesRules" : "Richo 12/29/2011 19:09",
+		"commonSuperclass" : "Richo 3/30/2012 17:56",
+		"compileSetUpMethod" : "Richo 1/23/2013 20:07",
+		"dcMotorRules" : "Richo 1/2/2012 17:43",
+		"initialize" : "Richo 10/21/2011 16:33",
+		"pinModeCodeFor:" : "Richo 1/23/2013 20:08",
+		"programName" : "Richo 8/16/2011 12:25",
+		"rules" : "Richo 3/5/2013 17:56",
+		"soundRules" : "Richo 1/18/2013 18:34",
+		"timerRules" : "Richo 3/5/2013 17:56" } }

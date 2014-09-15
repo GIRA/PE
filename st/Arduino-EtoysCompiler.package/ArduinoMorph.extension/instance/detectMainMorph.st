@@ -1,0 +1,3 @@
+*arduino-etoyscompiler
+detectMainMorph
+	^ self

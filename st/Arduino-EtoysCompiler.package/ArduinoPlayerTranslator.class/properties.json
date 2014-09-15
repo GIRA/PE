@@ -1,0 +1,15 @@
+{
+	"category" : "Arduino-EtoysCompiler",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"digitalPins",
+		"analogPins" ],
+	"name" : "ArduinoPlayerTranslator",
+	"pools" : [
+		 ],
+	"super" : "PlayerTranslator",
+	"type" : "normal" }

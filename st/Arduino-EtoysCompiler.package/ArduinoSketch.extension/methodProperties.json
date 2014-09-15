@@ -1,0 +1,12 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"getBooleanValue:" : "Richo 12/27/2011 17:53",
+		"getDCMotorSpeedD0:d1:en:" : "Richo 1/2/2012 17:43",
+		"getMode:" : "Richo 12/27/2011 17:52",
+		"getValue:" : "Richo 12/27/2011 17:53",
+		"setBooleanValue:value:" : "Richo 12/27/2011 17:54",
+		"setDCMotorSpeed:d0:d1:en:" : "Richo 1/2/2012 17:20",
+		"setMode:value:" : "Richo 12/27/2011 17:53",
+		"setValue:value:" : "Richo 12/27/2011 17:54" } }
