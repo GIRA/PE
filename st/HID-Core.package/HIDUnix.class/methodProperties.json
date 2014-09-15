@@ -1,0 +1,11 @@
+{
+	"class" : {
+		"apiClose:" : "Richo 12/7/2012 10:45",
+		"apiExit" : "Richo 12/7/2012 10:37",
+		"apiInit" : "Richo 12/7/2012 10:36",
+		"apiOpen:with:with:" : "Richo 12/7/2012 10:45",
+		"apiReadTimeout:with:with:with:" : "Richo 12/7/2012 10:45",
+		"apiRead:with:with:" : "Richo 12/7/2012 10:45",
+		"apiWrite:with:with:" : "Richo 12/7/2012 10:45" },
+	"instance" : {
+		 } }
