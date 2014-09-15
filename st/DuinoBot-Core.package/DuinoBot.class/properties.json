@@ -1,0 +1,14 @@
+{
+	"category" : "DuinoBot-Core",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"motorPins" ],
+	"name" : "DuinoBot",
+	"pools" : [
+		 ],
+	"super" : "Arduino",
+	"type" : "normal" }

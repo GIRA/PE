@@ -1,0 +1,9 @@
+{
+	"class" : {
+		"defaultProtocol" : "Richo 5/15/2012 15:10" },
+	"instance" : {
+		"initialize" : "Richo 3/6/2012 09:57",
+		"motorPins" : "Richo 10/24/2012 15:44",
+		"motorPin:" : "Richo 8/31/2011 15:20",
+		"pins" : "Richo 10/24/2012 15:56",
+		"reconfigurePins" : "Richo 1/24/2013 15:54" } }

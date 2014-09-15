@@ -1,0 +1,14 @@
+{
+	"category" : "DuinoBot-Core",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "IRMode",
+	"pools" : [
+		 ],
+	"super" : "InputMode",
+	"type" : "normal" }

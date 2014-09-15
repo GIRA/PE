@@ -1,0 +1,14 @@
+{
+	"category" : "DuinoBot-Core",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "RGMotor",
+	"pools" : [
+		 ],
+	"super" : "AttachableDevice",
+	"type" : "normal" }

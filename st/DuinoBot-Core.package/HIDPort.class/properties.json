@@ -1,0 +1,14 @@
+{
+	"category" : "DuinoBot-Core-Firmware",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"device" ],
+	"name" : "HIDPort",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

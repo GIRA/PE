@@ -1,0 +1,13 @@
+{
+	"class" : {
+		"rqAttachIRReceiver" : "Richo 1/23/2013 17:25",
+		"rqDetachIRReceiver" : "Richo 1/23/2013 17:25",
+		"rqMotorDC" : "Richo 1/18/2013 18:14" },
+	"instance" : {
+		"attachIRReceiverToPin:" : "Richo 1/23/2013 17:49",
+		"connectOnHIDPort:" : "Richo 12/4/2012 16:55",
+		"connectOnPort:" : "Richo 12/4/2012 16:56",
+		"connectOnSerialPort:" : "Richo 12/4/2012 16:56",
+		"controlFirmwareInstalled" : "Richo 4/18/2012 17:00",
+		"detachIRReceiverFromPin:" : "Richo 1/23/2013 17:49",
+		"motorDC:speed:" : "Richo 8/31/2011 17:33" } }

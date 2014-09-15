@@ -1,0 +1,10 @@
+{
+	"class" : {
+		"initialize" : "Richo 1/14/2013 17:28",
+		"shutDown" : "Richo 1/7/2013 13:40" },
+	"instance" : {
+		"close" : "Richo 12/7/2012 10:48",
+		"nextPutAll:" : "Richo 1/14/2013 17:30",
+		"openPort:" : "Richo 12/17/2012 16:44",
+		"readByteArray" : "Richo 12/7/2012 10:49",
+		"readString" : "Richo 12/4/2012 16:53" } }

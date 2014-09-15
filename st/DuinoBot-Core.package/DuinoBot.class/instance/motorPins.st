@@ -1,0 +1,3 @@
+accessing
+motorPins
+	^ motorPins values

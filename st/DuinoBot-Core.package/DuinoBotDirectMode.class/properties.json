@@ -1,0 +1,14 @@
+{
+	"category" : "DuinoBot-Core-Firmware",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "DuinoBotDirectMode",
+	"pools" : [
+		 ],
+	"super" : "ArduinoDirectMode",
+	"type" : "normal" }
