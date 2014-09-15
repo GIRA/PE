@@ -1,0 +1,13 @@
+{
+	"class" : {
+		"additionsToViewerCategories" : "Richo 3/6/2012 10:01",
+		"device" : "Richo 8/31/2011 17:01",
+		"initializeForm" : "Richo 8/31/2011 16:48",
+		"newConnector" : "Richo 8/31/2011 16:57",
+		"newConnectorFromMorph:toMorph:" : "Richo 8/31/2011 17:11" },
+	"instance" : {
+		"attachmentPointsSpecs" : "Richo 8/31/2011 16:56",
+		"mouseDownPin:evt:morph:" : "Richo 8/31/2011 16:57",
+		"newPlayerInstance" : "Richo 1/23/2013 19:28",
+		"speed" : "Richo 8/31/2011 17:22",
+		"speed:" : "Richo 8/31/2011 17:23" } }

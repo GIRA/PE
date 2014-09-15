@@ -1,0 +1,9 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"attachNewDevice" : "Richo 8/31/2011 16:21",
+		"drawOn:" : "Richo 8/31/2011 16:13",
+		"initialize" : "Richo 8/31/2011 17:15",
+		"mouseEnter:forMorph:" : "Richo 8/31/2011 16:21",
+		"mouseLeave:forMorph:" : "Richo 8/31/2011 16:20" } }

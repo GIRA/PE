@@ -1,0 +1,21 @@
+{
+	"class" : {
+		"additionsToViewerCategories" : "Richo 2/28/2013 17:40",
+		"descriptionForPartsBin" : "Richo 12/26/2012 17:49",
+		"initialize" : "Richo 11/27/2012 13:04",
+		"initializeForm" : "Richo 8/31/2011 13:47",
+		"robotForm" : "Richo 8/31/2011 14:59",
+		"typeClass" : "Richo 11/23/2012 15:09" },
+	"instance" : {
+		"drawOn:" : "Richo 8/31/2011 14:59",
+		"initialize" : "Richo 11/23/2012 14:46",
+		"initializePins" : "Richo 1/7/2013 11:49",
+		"initializeSpecialPins" : "Richo 8/31/2011 17:10",
+		"installFirmwareIfPossible" : "Richo 1/7/2013 14:56",
+		"m0" : "Richo 8/31/2011 17:05",
+		"m0:" : "Richo 8/31/2011 17:05",
+		"m1" : "Richo 8/31/2011 17:05",
+		"m1:" : "Richo 8/31/2011 17:05",
+		"newPlayerInstance" : "Richo 8/31/2011 13:41",
+		"playTone:duration:" : "Richo 1/16/2013 17:47",
+		"portName" : "Richo 11/23/2012 15:01" } }

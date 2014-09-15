@@ -1,0 +1,14 @@
+{
+	"category" : "DuinoBot-Etoys",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "DuinoBotPlayer",
+	"pools" : [
+		 ],
+	"super" : "ArduinoPlayer",
+	"type" : "normal" }

@@ -1,0 +1,14 @@
+{
+	"category" : "DuinoBot-Etoys",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "RGButtonMorph",
+	"pools" : [
+		 ],
+	"super" : "PushButtonMorph",
+	"type" : "normal" }

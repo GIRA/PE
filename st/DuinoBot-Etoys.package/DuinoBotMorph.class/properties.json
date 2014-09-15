@@ -1,0 +1,14 @@
+{
+	"category" : "DuinoBot-Etoys",
+	"classinstvars" : [
+		"robotForm" ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "DuinoBotMorph",
+	"pools" : [
+		 ],
+	"super" : "ArduinoMorph",
+	"type" : "normal" }

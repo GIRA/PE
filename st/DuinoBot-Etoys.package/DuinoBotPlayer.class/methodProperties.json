@@ -1,0 +1,11 @@
+{
+	"class" : {
+		"officialClass" : "Richo 4/10/2012 16:07" },
+	"instance" : {
+		"getDuinoBotType" : "Richo 11/23/2012 13:37",
+		"getMotor0" : "Richo 8/31/2011 13:37",
+		"getMotor1" : "Richo 8/31/2011 13:37",
+		"getRemoteCode" : "Richo 1/23/2013 19:47",
+		"setDuinoBotType:" : "Richo 11/23/2012 13:37",
+		"setMotor0:" : "Richo 8/31/2011 13:37",
+		"setMotor1:" : "Richo 8/31/2011 13:37" } }

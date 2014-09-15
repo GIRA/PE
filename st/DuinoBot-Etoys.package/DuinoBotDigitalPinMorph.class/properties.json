@@ -1,0 +1,14 @@
+{
+	"category" : "DuinoBot-Etoys",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "DuinoBotDigitalPinMorph",
+	"pools" : [
+		 ],
+	"super" : "ArduinoDigitalPinMorph",
+	"type" : "normal" }

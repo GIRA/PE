@@ -1,0 +1,3 @@
+initialize
+newPlayerInstance
+	^DuinoBotPlayer newUserInstance 
