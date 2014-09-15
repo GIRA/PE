@@ -1,0 +1,14 @@
+{
+	"category" : "Arduino-Compiler-Sketches",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"ledPin" ],
+	"name" : "ArduinoBlinkSketch",
+	"pools" : [
+		 ],
+	"super" : "ArduinoSketch",
+	"type" : "normal" }

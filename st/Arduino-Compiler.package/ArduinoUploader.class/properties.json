@@ -1,0 +1,14 @@
+{
+	"category" : "Arduino-Compiler-Uploading",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "Richo 10/26/2011 12:31",
+	"instvars" : [
+		 ],
+	"name" : "ArduinoUploader",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

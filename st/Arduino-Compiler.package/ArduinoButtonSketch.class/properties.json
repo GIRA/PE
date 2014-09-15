@@ -1,0 +1,16 @@
+{
+	"category" : "Arduino-Compiler-Sketches",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"buttonPin",
+		"ledPin",
+		"buttonState" ],
+	"name" : "ArduinoButtonSketch",
+	"pools" : [
+		 ],
+	"super" : "ArduinoSketch",
+	"type" : "normal" }

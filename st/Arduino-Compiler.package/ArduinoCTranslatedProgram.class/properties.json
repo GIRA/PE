@@ -1,0 +1,14 @@
+{
+	"category" : "Arduino-Compiler-Output",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "ArduinoCTranslatedProgram",
+	"pools" : [
+		 ],
+	"super" : "CppTranslatedProgram",
+	"type" : "normal" }

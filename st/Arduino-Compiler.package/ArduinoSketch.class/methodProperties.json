@@ -1,0 +1,25 @@
+{
+	"class" : {
+		"allIncludes" : "Richo 1/10/2012 13:50",
+		"includes" : "Richo 1/10/2012 15:36",
+		"initialize" : "Richo 6/21/2011 17:07",
+		"instanceVariableTypes" : "Richo 1/10/2012 15:36",
+		"testAllSubclasses" : "Richo 3/21/2012 19:40",
+		"translatedToArduinoC" : "Richo 10/14/2011 16:32",
+		"translatedToArduinoC:" : "Richo 10/14/2011 16:33",
+		"translatedToArduinoC:named:" : "Richo 10/14/2011 16:32" },
+	"instance" : {
+		"analogRead:" : "Richo 6/22/2011 16:43",
+		"analogWrite:value:" : "Richo 6/22/2011 16:52",
+		"currentTick" : "Richo 3/30/2012 17:50",
+		"delayMicroseconds:" : "Richo 6/21/2011 16:37",
+		"delay:" : "Richo 6/21/2011 16:37",
+		"digitalRead:" : "Richo 6/22/2011 16:22",
+		"digitalWrite:value:" : "Richo 6/21/2011 16:40",
+		"init" : "Richo 6/21/2011 18:39",
+		"loop" : "Richo 3/3/2010 17:38",
+		"main" : "Richo 6/21/2011 19:04",
+		"millis" : "Richo 6/22/2011 16:22",
+		"pin:mode:" : "Richo 6/21/2011 16:40",
+		"playTone:duration:pin:" : "Richo 1/18/2013 18:36",
+		"setup" : "Richo 3/3/2010 17:38" } }

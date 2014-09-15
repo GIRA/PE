@@ -1,0 +1,17 @@
+{
+	"category" : "Arduino-Compiler-Sketches",
+	"classinstvars" : [
+		"instVarTypes" ],
+	"classvars" : [
+		"HIGH",
+		"INPUT",
+		"LOW",
+		"OUTPUT" ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "ArduinoSketch",
+	"pools" : [
+		 ],
+	"super" : "CProgram",
+	"type" : "normal" }

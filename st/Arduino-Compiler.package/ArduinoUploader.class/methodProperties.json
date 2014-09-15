@@ -1,0 +1,17 @@
+{
+	"class" : {
+		"forThisPlatform" : "Richo 5/15/2012 13:09",
+		"makefile" : "Richo 11/23/2012 12:26",
+		"makefileFor:" : "Richo 11/23/2012 12:18",
+		"new" : "Richo 3/5/2012 18:37",
+		"platformName" : "Richo 3/5/2012 18:46" },
+	"instance" : {
+		"allSketchesDirectory" : "Richo 6/22/2011 10:31",
+		"checkForErrorsOn:" : "Richo 2/25/2013 19:08",
+		"compileSketchNamed:for:clean:" : "Richo 2/25/2013 18:52",
+		"createMakefileOn:for:" : "Richo 11/23/2012 12:19",
+		"executeCompileFor:" : "Richo 3/5/2012 18:31",
+		"executeUploadFor:onPort:uploadRate:mcu:fCpu:avrdudeProgrammer:" : "Richo 3/5/2012 18:32",
+		"timeoutSeconds" : "Richo 1/5/2010 12:45",
+		"uploadSketchNamed:onPort:arduinoType:clean:" : "Richo 2/25/2013 18:53",
+		"waitFor:untilFinish:on:" : "Richo 3/3/2012 02:09" } }

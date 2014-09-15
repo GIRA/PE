@@ -1,0 +1,14 @@
+{
+	"category" : "Arduino-Compiler-Uploading",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "ArduinoMacUploader",
+	"pools" : [
+		 ],
+	"super" : "ArduinoUploader",
+	"type" : "normal" }

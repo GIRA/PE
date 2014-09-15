@@ -1,0 +1,14 @@
+{
+	"category" : "Arduino-Compiler-Sketches",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "ArduinoDirectModeSketch",
+	"pools" : [
+		 ],
+	"super" : "ArduinoSketch",
+	"type" : "normal" }

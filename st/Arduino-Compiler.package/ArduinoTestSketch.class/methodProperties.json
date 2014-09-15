@@ -1,0 +1,8 @@
+{
+	"class" : {
+		"includes" : "Richo 2/22/2012 10:06",
+		"instanceVariableTypes" : "Richo 2/22/2012 10:06" },
+	"instance" : {
+		"loop" : "Richo 6/29/2011 12:14",
+		"setup" : "Richo 6/22/2011 16:44",
+		"turnOnLed:" : "Richo 6/29/2011 12:14" } }

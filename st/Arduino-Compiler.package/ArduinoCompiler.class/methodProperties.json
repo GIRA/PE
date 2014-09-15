@@ -1,0 +1,27 @@
+{
+	"class" : {
+		"on:" : "Richo 10/25/2011 16:49" },
+	"instance" : {
+		"allSketchesDirectory" : "Richo 6/22/2011 09:54",
+		"compile" : "Richo 11/23/2012 12:56",
+		"compileFor:" : "Richo 11/23/2012 12:16",
+		"copyLibraryFilesFrom:" : "Richo 1/6/2012 20:09",
+		"createMakefileFor:" : "Richo 11/23/2012 12:17",
+		"createSketchDirectory" : "Richo 6/22/2011 09:54",
+		"createSourceFile" : "Richo 6/22/2011 14:26",
+		"findLibrariesFromSketch" : "Richo 1/10/2012 13:53",
+		"findLibrariesFromSource" : "Richo 1/6/2012 20:10",
+		"findLibrariesFromSource:" : "Richo 1/9/2012 16:14",
+		"findLibrary:" : "Richo 12/29/2011 17:54",
+		"initializeWith:" : "Richo 10/25/2011 16:49",
+		"librariesDirectory" : "Richo 5/9/2012 15:19",
+		"sketchDirectory" : "Richo 6/22/2011 15:31",
+		"sketchSourceFileNames" : "Richo 1/6/2012 20:03",
+		"typeClass" : "Richo 11/23/2012 12:54",
+		"uploader" : "Richo 5/9/2012 16:24",
+		"uploadOnPort:" : "Richo 11/23/2012 12:57",
+		"uploadOnPort:arduinoType:" : "Richo 2/25/2013 19:17",
+		"uploadOnPort:arduinoType:clean:" : "Richo 2/25/2013 19:18",
+		"verify" : "Richo 11/23/2012 13:08",
+		"verifyFor:" : "Richo 2/25/2013 19:17",
+		"verifyFor:clean:" : "Richo 2/25/2013 19:17" } }

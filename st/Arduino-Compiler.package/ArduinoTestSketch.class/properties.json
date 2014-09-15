@@ -1,0 +1,15 @@
+{
+	"category" : "Arduino-Compiler-Sketches",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"led",
+		"servo" ],
+	"name" : "ArduinoTestSketch",
+	"pools" : [
+		 ],
+	"super" : "ArduinoSketch",
+	"type" : "normal" }

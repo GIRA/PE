@@ -1,0 +1,17 @@
+{
+	"category" : "Arduino-Compiler-Sketches",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"ledPin",
+		"ledState",
+		"previousMillis",
+		"interval" ],
+	"name" : "ArduinoBlinkWithoutDelaySketch",
+	"pools" : [
+		 ],
+	"super" : "ArduinoSketch",
+	"type" : "normal" }

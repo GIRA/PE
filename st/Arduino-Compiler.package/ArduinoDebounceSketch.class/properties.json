@@ -1,0 +1,20 @@
+{
+	"category" : "Arduino-Compiler-Sketches",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"buttonPin",
+		"ledPin",
+		"ledState",
+		"buttonState",
+		"lastButtonState",
+		"lastDebounceTime",
+		"debounceDelay" ],
+	"name" : "ArduinoDebounceSketch",
+	"pools" : [
+		 ],
+	"super" : "ArduinoSketch",
+	"type" : "normal" }

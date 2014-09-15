@@ -1,0 +1,1 @@
+I'm responsible for creating the necessary files to compile an already translated sketch. This files should be placed in the correct directory (see ArduinoUploader class comment for more info).

@@ -1,0 +1,9 @@
+{
+	"class" : {
+		"arduinoInstallDir" : "TS 4/10/2012 21:46",
+		"makefile" : "TS 4/9/2012 00:05",
+		"platformName" : "TS 3/31/2012 23:17" },
+	"instance" : {
+		"changeCurrentDirectoryOf:to:" : "TS 3/31/2012 23:36",
+		"executeCompileFor:" : "TS 4/10/2012 21:39",
+		"executeUploadFor:onPort:uploadRate:mcu:fCpu:avrdudeProgrammer:" : "TS 4/10/2012 21:36" } }
