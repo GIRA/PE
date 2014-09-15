@@ -1,0 +1,14 @@
+{
+	"category" : "DuinoBot-EtoysCompiler",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "DuinoBotCompiledMode",
+	"pools" : [
+		 ],
+	"super" : "ArduinoCompiledMode",
+	"type" : "normal" }

@@ -1,0 +1,14 @@
+{
+	"category" : "DuinoBot-EtoysCompiler",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"motorPins" ],
+	"name" : "DuinoBotPlayerTranslator",
+	"pools" : [
+		 ],
+	"super" : "ArduinoPlayerTranslator",
+	"type" : "normal" }

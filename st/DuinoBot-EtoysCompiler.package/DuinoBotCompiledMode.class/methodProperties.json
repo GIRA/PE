@@ -1,0 +1,7 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"attachIRReceiverToPin:" : "Richo 1/24/2013 16:21",
+		"detachIRReceiverFromPin:" : "Richo 1/24/2013 16:22",
+		"motorDC:speed:" : "Richo 1/24/2013 16:22" } }
