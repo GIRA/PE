@@ -1,8 +1,8 @@
 # Physical Etoys (PE)
-Grupo de Investigación en Robótica Autónoma (GIRA)
-Centro de Altos Estudios en Tecnología Informática
-Universidad Abierta Interamericana
-http://tecnodacta.com.ar/gira/
+> Grupo de Investigación en Robótica Autónoma (GIRA)
+> Centro de Altos Estudios en Tecnología Informática
+> Universidad Abierta Interamericana
+> http://tecnodacta.com.ar/gira/
 
 ## Description:
 
