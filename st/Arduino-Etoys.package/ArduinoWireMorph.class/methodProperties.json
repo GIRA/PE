@@ -1,0 +1,9 @@
+{
+	"class" : {
+		"validConnectionClasses" : "Richo 11/10/2009 12:25" },
+	"instance" : {
+		"addCustomMenuItems:hand:" : "Richo 1/24/2013 16:42",
+		"enterHandlingDrop" : "Richo 3/9/2010 12:07",
+		"initialize" : "Richo 1/24/2013 16:37",
+		"monitorDestinationForEnds" : "Richo 3/9/2010 12:07",
+		"wantsToAttachEnd:toMorph:" : "Richo 9/5/2011 19:00" } }

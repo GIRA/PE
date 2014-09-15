@@ -1,0 +1,22 @@
+{
+	"class" : {
+		"additionsToViewerCategories" : "Richo 4/12/2011 11:26",
+		"defaultNameStemForInstances" : "Richo 4/6/2011 10:47",
+		"device" : "Richo 9/15/2009 10:44",
+		"initializeForm" : "Richo 11/17/2009 13:05",
+		"isAnalog" : "Richo 9/6/2011 13:24",
+		"isDigital" : "Richo 9/6/2011 13:24",
+		"ledHeadForm" : "Richo 1/10/2013 16:54",
+		"newConnector" : "Richo 11/10/2009 12:18",
+		"newConnectorFromMorph:toMorph:" : "Richo 11/10/2009 12:18" },
+	"instance" : {
+		"attachmentPointsSpecs" : "Richo 8/15/2011 11:34",
+		"color:" : "Richo 1/10/2013 17:28",
+		"drawOn:" : "Richo 1/10/2013 17:29",
+		"fillStyle:" : "Richo 1/10/2013 17:19",
+		"isLedOn" : "Richo 1/10/2013 17:48",
+		"isLedOn:" : "Richo 1/10/2013 17:50",
+		"ledHeadForm" : "Richo 1/10/2013 17:27",
+		"updateBrightness:" : "Richo 1/10/2013 17:26",
+		"updateHue:" : "Richo 1/10/2013 17:26",
+		"updateLedHeadForm" : "Richo 1/10/2013 17:27" } }

@@ -1,0 +1,14 @@
+{
+	"category" : "Arduino-Etoys-Wiring",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "<historical>",
+	"instvars" : [
+		 ],
+	"name" : "ArduinoWireMorph",
+	"pools" : [
+		 ],
+	"super" : "PEWireMorph",
+	"type" : "normal" }

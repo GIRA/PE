@@ -1,0 +1,16 @@
+{
+	"category" : "Arduino-Etoys",
+	"classinstvars" : [
+		"form" ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "Richo 9/15/2009 12:41",
+	"instvars" : [
+		"form",
+		"pin",
+		"attachmentPoint" ],
+	"name" : "ArduinoPinMorph",
+	"pools" : [
+		 ],
+	"super" : "Morph",
+	"type" : "normal" }

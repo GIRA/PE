@@ -1,0 +1,3 @@
+commands
+stepMotor
+device doNextStep

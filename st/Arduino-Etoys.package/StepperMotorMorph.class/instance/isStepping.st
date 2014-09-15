@@ -1,0 +1,3 @@
+slots
+isStepping
+^device isRunning 

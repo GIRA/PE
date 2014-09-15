@@ -1,0 +1,14 @@
+{
+	"category" : "Arduino-Etoys-AFMotorShield",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "AFMotorPinMorph",
+	"pools" : [
+		 ],
+	"super" : "ArduinoPinMorph",
+	"type" : "normal" }

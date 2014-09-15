@@ -1,0 +1,14 @@
+{
+	"class" : {
+		"additionsToViewerCategories" : "Richo 4/12/2011 11:17",
+		"row:column:" : "Richo 6/4/2010 17:58" },
+	"instance" : {
+		"categoriesForViewer" : "Richo 1/6/2011 13:51",
+		"delete" : "Richo 1/6/2011 13:54",
+		"initialize" : "Richo 6/4/2010 14:32",
+		"initializeFillStyle" : "Richo 6/4/2010 14:30",
+		"initializeToStandAlone" : "Richo 6/4/2010 14:31",
+		"isPressed" : "Richo 6/4/2010 18:01",
+		"newPlayerInstance" : "Richo 8/11/2011 17:05",
+		"setRow:column:" : "Richo 6/4/2010 17:59",
+		"validCategories" : "Richo 1/6/2011 13:51" } }

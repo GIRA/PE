@@ -1,0 +1,16 @@
+{
+	"category" : "Arduino-Etoys-Devices",
+	"classinstvars" : [
+		"form" ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"device",
+		"attachmentPoints",
+		"attachments" ],
+	"name" : "AttachableDeviceMorph",
+	"pools" : [
+		 ],
+	"super" : "Morph",
+	"type" : "normal" }

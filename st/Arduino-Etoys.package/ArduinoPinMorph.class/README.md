@@ -1,0 +1,1 @@
+Abstract class. I am the Etoy that represents a pin of an Arduino board. I am responsible of the attaching/detaching mechanism.

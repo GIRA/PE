@@ -1,0 +1,14 @@
+{
+	"category" : "Arduino-Etoys-Devices",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "PwmLightDiodeMorph",
+	"pools" : [
+		 ],
+	"super" : "LightDiodeMorph",
+	"type" : "normal" }

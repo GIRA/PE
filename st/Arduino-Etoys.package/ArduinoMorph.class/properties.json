@@ -1,0 +1,18 @@
+{
+	"category" : "Arduino-Etoys",
+	"classinstvars" : [
+		"lastBoardType",
+		"form",
+		"lastPortName" ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "Richo 9/15/2009 12:23",
+	"instvars" : [
+		"arduino",
+		"boardType",
+		"portName" ],
+	"name" : "ArduinoMorph",
+	"pools" : [
+		 ],
+	"super" : "Morph",
+	"type" : "normal" }

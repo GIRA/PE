@@ -1,0 +1,3 @@
+initialize-release
+newPlayerInstance
+	^ArduinoPlayer newUserInstance 

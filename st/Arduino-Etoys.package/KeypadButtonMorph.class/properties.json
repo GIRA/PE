@@ -1,0 +1,15 @@
+{
+	"category" : "Arduino-Etoys-Devices",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"row",
+		"column" ],
+	"name" : "KeypadButtonMorph",
+	"pools" : [
+		 ],
+	"super" : "BorderedMorph",
+	"type" : "normal" }

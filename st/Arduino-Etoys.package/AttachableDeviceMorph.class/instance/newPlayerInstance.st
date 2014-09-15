@@ -1,0 +1,3 @@
+initialization
+newPlayerInstance
+	^ArduinoPlayer newUserInstance

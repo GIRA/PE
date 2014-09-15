@@ -1,0 +1,3 @@
+accessing
+isPressed
+	^ self value

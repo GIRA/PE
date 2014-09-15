@@ -1,0 +1,17 @@
+{
+	"class" : {
+		"additionsToViewerCategories" : "Richo 4/8/2013 18:49",
+		"defaultNameStemForInstances" : "Richo 4/8/2013 17:43",
+		"device" : "Richo 4/8/2013 17:43",
+		"initialize" : "Richo 4/8/2013 18:28",
+		"initializeForm" : "Richo 4/8/2013 17:43",
+		"newConnector" : "Richo 4/8/2013 17:44",
+		"newConnectorFromMorph:toMorph:" : "Richo 4/8/2013 17:44" },
+	"instance" : {
+		"attachmentPointsSpecs" : "Richo 4/8/2013 18:40",
+		"direction" : "Richo 4/8/2013 19:05",
+		"direction:" : "Richo 4/8/2013 19:06",
+		"speed" : "Richo 4/8/2013 17:45",
+		"speed:" : "Richo 4/8/2013 19:06",
+		"state" : "Richo 4/8/2013 19:06",
+		"state:" : "Richo 4/8/2013 19:06" } }

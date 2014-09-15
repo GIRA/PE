@@ -1,0 +1,24 @@
+{
+	"class" : {
+		"devices" : "Richo 9/4/2009 18:13",
+		"form" : "Richo 8/25/2009 09:31",
+		"justASketch" : "Richo 3/9/2010 12:08",
+		"on:" : "Richo 8/25/2009 14:15" },
+	"instance" : {
+		"attachNewDevice" : "Richo 9/4/2009 18:19",
+		"attach:" : "Richo 6/7/2010 14:23",
+		"canBeAttachedTo:" : "Richo 1/7/2013 12:05",
+		"connectedToBy:" : "Richo 6/4/2010 15:49",
+		"controlDeviceBounds:" : "Richo 4/13/2012 16:43",
+		"disconnectedFromBy:" : "Richo 9/9/2009 17:20",
+		"drawOn:" : "Richo 8/25/2009 11:14",
+		"initialize" : "Richo 9/15/2009 12:25",
+		"initializeAttachmentPoint" : "Richo 11/10/2009 12:23",
+		"initializeEventHandling" : "Richo 8/31/2011 16:19",
+		"mouseDown:forMorph:" : "Richo 8/25/2009 11:20",
+		"mouseEnter:forMorph:" : "Richo 8/25/2009 11:17",
+		"mouseLeave:forMorph:" : "Richo 8/25/2009 11:16",
+		"move:" : "Richo 6/7/2010 14:23",
+		"newDevice" : "Richo 9/2/2011 15:46",
+		"setPin:" : "Richo 8/25/2009 14:16",
+		"wantsAttachmentFromEnd:ofConnector:" : "Richo 3/9/2010 12:07" } }

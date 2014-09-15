@@ -1,0 +1,14 @@
+{
+	"category" : "Arduino-Etoys-Devices",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"text" ],
+	"name" : "LCDDisplayMorph",
+	"pools" : [
+		 ],
+	"super" : "AttachableDeviceMorph",
+	"type" : "normal" }

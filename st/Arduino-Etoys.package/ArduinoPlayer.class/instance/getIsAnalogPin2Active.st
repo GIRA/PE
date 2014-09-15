@@ -1,0 +1,3 @@
+slots
+getIsAnalogPin2Active
+^ self costume renderedMorph isAnalogPin2Active

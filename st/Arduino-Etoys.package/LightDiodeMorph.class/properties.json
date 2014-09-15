@@ -1,0 +1,14 @@
+{
+	"category" : "Arduino-Etoys-Devices",
+	"classinstvars" : [
+		"ledHeadForm" ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "<historical>",
+	"instvars" : [
+		"ledHeadForm" ],
+	"name" : "LightDiodeMorph",
+	"pools" : [
+		 ],
+	"super" : "AttachableDeviceMorph",
+	"type" : "normal" }

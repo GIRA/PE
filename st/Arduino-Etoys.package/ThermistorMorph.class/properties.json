@@ -1,0 +1,14 @@
+{
+	"category" : "Arduino-Etoys-Devices",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "ThermistorMorph",
+	"pools" : [
+		 ],
+	"super" : "AttachableDeviceMorph",
+	"type" : "normal" }

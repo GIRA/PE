@@ -1,0 +1,14 @@
+{
+	"category" : "Arduino-Etoys-Devices",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "<historical>",
+	"instvars" : [
+		 ],
+	"name" : "PushButtonMorph",
+	"pools" : [
+		 ],
+	"super" : "EButtonMorph",
+	"type" : "normal" }

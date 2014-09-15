@@ -1,0 +1,14 @@
+{
+	"category" : "Arduino-Etoys",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "<historical>",
+	"instvars" : [
+		 ],
+	"name" : "ArduinoDigitalPinMorph",
+	"pools" : [
+		 ],
+	"super" : "ArduinoPinMorph",
+	"type" : "normal" }

@@ -1,0 +1,3 @@
+slots
+getDigitalPin4Mode
+^ self costume renderedMorph digitalPin4Mode

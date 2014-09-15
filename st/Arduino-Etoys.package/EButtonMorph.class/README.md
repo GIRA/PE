@@ -1,0 +1,1 @@
+Abstract class. I am the Etoy of a generic button. My subclasses define the form of specific buttons such as pushbuttons or switchs.

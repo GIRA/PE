@@ -1,0 +1,23 @@
+{
+	"class" : {
+		"additionsToViewerCategories" : "Richo 4/12/2011 11:34",
+		"defaultNameStemForInstances" : "Richo 4/6/2011 10:48",
+		"device" : "Richo 6/9/2010 14:33",
+		"initialize" : "Richo 4/16/2012 17:27",
+		"initializeForm" : "Richo 6/9/2010 14:31",
+		"isDigital" : "Richo 6/9/2010 14:47",
+		"newConnector" : "Richo 6/9/2010 14:46",
+		"newConnectorFromMorph:toMorph:" : "Richo 6/9/2010 14:47" },
+	"instance" : {
+		"attachmentPointsSpecs" : "Richo 8/15/2011 12:00",
+		"direction" : "Richo 6/9/2010 15:49",
+		"direction:" : "Richo 6/9/2010 15:49",
+		"initialize" : "Richo 8/15/2011 12:01",
+		"isStepping" : "Richo 6/9/2010 16:20",
+		"startMotor" : "Richo 6/9/2010 15:47",
+		"stepMotor" : "Richo 6/9/2010 16:42",
+		"stepperMode" : "Richo 6/9/2010 16:13",
+		"stepperMode:" : "Richo 6/9/2010 16:13",
+		"stepTime" : "Richo 6/9/2010 15:53",
+		"stepTime:" : "Richo 6/9/2010 15:53",
+		"stopMotor" : "Richo 6/9/2010 15:47" } }
