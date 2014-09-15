@@ -1,0 +1,14 @@
+{
+	"category" : "CTranslator-Output-Cpp",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "CppTranslatedProgram",
+	"pools" : [
+		 ],
+	"super" : "CTranslatedProgram",
+	"type" : "normal" }

@@ -1,0 +1,14 @@
+{
+	"category" : "CTranslator-Utilities",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "Richo 3/1/2012 17:55",
+	"instvars" : [
+		 ],
+	"name" : "CFormatter",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

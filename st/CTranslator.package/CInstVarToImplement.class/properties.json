@@ -1,0 +1,15 @@
+{
+	"category" : "CTranslator-Exceptions",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"variable",
+		"struct" ],
+	"name" : "CInstVarToImplement",
+	"pools" : [
+		 ],
+	"super" : "Notification",
+	"type" : "normal" }

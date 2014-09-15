@@ -1,0 +1,10 @@
+{
+	"class" : {
+		"newFrom:" : "Richo 6/20/2011 20:59",
+		"on:" : "Richo 6/28/2011 12:06" },
+	"instance" : {
+		"applyTo:using:" : "Richo 6/20/2011 21:13",
+		"format:" : "Richo 2/22/2012 09:59",
+		"initializeWith:" : "Richo 6/28/2011 12:07",
+		"printOn:" : "Richo 6/20/2011 20:59",
+		"removeSemicolonIfNecessaryOn:for:" : "Richo 6/20/2011 20:59" } }

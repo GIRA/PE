@@ -1,0 +1,3 @@
+visiting
+acceptPatternWrapperBlockNode: aRBPatternWrapperBlockNode 
+	self halt

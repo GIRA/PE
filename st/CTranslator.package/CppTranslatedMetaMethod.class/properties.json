@@ -1,0 +1,14 @@
+{
+	"category" : "CTranslator-Output-Cpp",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "CppTranslatedMetaMethod",
+	"pools" : [
+		 ],
+	"super" : "CppTranslatedMethod",
+	"type" : "normal" }

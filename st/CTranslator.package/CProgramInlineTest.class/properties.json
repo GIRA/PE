@@ -1,0 +1,14 @@
+{
+	"category" : "CTranslator-Programs",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "CProgramInlineTest",
+	"pools" : [
+		 ],
+	"super" : "CProgram",
+	"type" : "normal" }

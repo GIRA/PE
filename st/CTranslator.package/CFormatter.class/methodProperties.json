@@ -1,0 +1,10 @@
+{
+	"class" : {
+		"format:" : "Richo 3/1/2012 17:19" },
+	"instance" : {
+		"assureNewLinesWhenNecessary:" : "Richo 3/1/2012 17:47",
+		"condenseBlanks:" : "Richo 3/1/2012 17:43",
+		"format:" : "Richo 3/2/2012 17:52",
+		"indent:" : "Richo 3/1/2012 17:42",
+		"removeExtraSemicolons:" : "Richo 3/21/2012 15:00",
+		"withBlanksTrimmed:" : "Richo 3/21/2012 15:00" } }

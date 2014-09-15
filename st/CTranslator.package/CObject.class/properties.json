@@ -1,0 +1,14 @@
+{
+	"category" : "CTranslator-Hierarchy",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "CObject",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

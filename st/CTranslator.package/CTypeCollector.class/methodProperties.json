@@ -1,0 +1,25 @@
+{
+	"class" : {
+		"findClassOf:in:with:" : "Richo 10/7/2011 19:35",
+		"findTypeOf:in:with:" : "Richo 10/7/2011 19:11",
+		"new" : "Richo 10/7/2011 19:33",
+		"withKit:" : "Richo 10/7/2011 19:32" },
+	"instance" : {
+		"acceptArrayNode:" : "Richo 6/20/2011 20:59",
+		"acceptBlockNode:" : "Richo 6/20/2011 21:21",
+		"acceptCascadeNode:" : "Richo 6/20/2011 20:59",
+		"acceptLiteralArrayNode:" : "Richo 6/20/2011 20:59",
+		"acceptLiteralNode:" : "Richo 6/20/2011 21:22",
+		"acceptMessageNode:" : "Richo 10/7/2011 18:12",
+		"acceptMethodNode:" : "Richo 7/27/2011 13:43",
+		"acceptPatternBlockNode:" : "Richo 6/20/2011 20:59",
+		"acceptPatternWrapperBlockNode:" : "Richo 6/20/2011 20:59",
+		"acceptSequenceNode:" : "Richo 6/20/2011 20:59",
+		"acceptVariableNode:" : "Richo 10/24/2011 11:50",
+		"computeTypes:" : "Richo 10/7/2011 17:55",
+		"findClassOf:" : "Richo 10/7/2011 18:12",
+		"findClassOf:in:" : "Richo 10/7/2011 18:11",
+		"findTypeOf:" : "Richo 10/7/2011 19:34",
+		"findTypeOf:in:" : "Richo 6/20/2011 20:59",
+		"initializeWith:" : "Richo 10/7/2011 19:33",
+		"kit" : "Richo 10/7/2011 19:34" } }

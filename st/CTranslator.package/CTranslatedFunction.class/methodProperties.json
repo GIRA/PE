@@ -1,0 +1,21 @@
+{
+	"class" : {
+		"class:selector:body:arguments:temporaries:returnType:selfType:" : "Richo 10/11/2011 10:37" },
+	"instance" : {
+		"arguments" : "Richo 7/8/2011 20:18",
+		"body" : "Richo 1/3/2012 18:26",
+		"declaration" : "Richo 10/11/2011 10:35",
+		"formattedSource" : "Richo 3/2/2012 15:42",
+		"hash" : "Richo 6/20/2011 20:49",
+		"initializeWithClass:selector:body:arguments:temporaries:returnType:selfType:" : "Richo 10/11/2011 10:51",
+		"isMain" : "Richo 10/11/2011 10:50",
+		"isMain:" : "Richo 10/11/2011 10:50",
+		"name" : "Richo 10/13/2011 17:39",
+		"ownerClass" : "Richo 10/7/2011 19:44",
+		"printOn:" : "Richo 3/2/2012 15:43",
+		"returnType" : "Richo 10/7/2011 19:29",
+		"selector" : "Richo 10/11/2011 10:56",
+		"selfType" : "Richo 10/11/2011 10:33",
+		"source" : "Richo 3/2/2012 15:43",
+		"temporaries" : "Richo 7/8/2011 20:18",
+		"=" : "Richo 6/29/2011 11:29" } }

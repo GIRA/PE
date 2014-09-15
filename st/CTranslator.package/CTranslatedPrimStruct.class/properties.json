@@ -1,0 +1,14 @@
+{
+	"category" : "CTranslator-Output-C",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "CTranslatedPrimStruct",
+	"pools" : [
+		 ],
+	"super" : "CTranslatedStruct",
+	"type" : "normal" }

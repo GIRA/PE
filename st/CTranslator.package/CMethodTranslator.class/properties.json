@@ -1,0 +1,16 @@
+{
+	"category" : "CTranslator-Translators-C",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "Richo 3/1/2012 18:55",
+	"instvars" : [
+		"source",
+		"class",
+		"kit" ],
+	"name" : "CMethodTranslator",
+	"pools" : [
+		 ],
+	"super" : "RBProgramNodeVisitor",
+	"type" : "normal" }

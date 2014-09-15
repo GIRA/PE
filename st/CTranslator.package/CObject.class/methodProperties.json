@@ -1,0 +1,24 @@
+{
+	"class" : {
+		"allIncludes" : "Richo 1/10/2012 13:49",
+		"asCString" : "Richo 10/7/2011 18:02",
+		"basicNew" : "Richo 3/29/2012 15:19",
+		"definition" : "Richo 2/22/2012 09:34",
+		"definitionST80" : "Richo 6/20/2011 17:53",
+		"includes" : "Richo 12/28/2011 15:12",
+		"includesUpTo:" : "Richo 1/10/2012 13:49",
+		"includes:" : "Richo 1/10/2012 13:45",
+		"instanceVariableTypes" : "Richo 6/20/2011 17:53",
+		"instanceVariableTypes:" : "Richo 12/28/2011 15:15",
+		"isPrimitive" : "Richo 6/30/2011 12:26",
+		"new" : "Richo 7/25/2011 15:43",
+		"subclass:category:" : "Richo 6/20/2011 17:27",
+		"subclass:instanceVariableNames:instanceVariableTypes:classVariableNames:category:includes:" : "Richo 2/22/2012 09:32",
+		"subclass:instanceVariableNames:instanceVariableTypes:classVariableNames:poolDictionaries:category:" : "Richo 7/26/2011 15:24",
+		"subclass:instanceVariableNames:instanceVariableTypes:classVariableNames:poolDictionaries:category:includes:" : "Richo 12/28/2011 15:11" },
+	"instance" : {
+		"address" : "Richo 6/23/2011 16:44",
+		"isNil" : "Richo 10/11/2011 17:56",
+		"pointer" : "Richo 6/23/2011 16:43",
+		"=" : "Richo 6/22/2011 16:23",
+		"~=" : "Richo 6/22/2011 16:23" } }

@@ -1,0 +1,18 @@
+{
+	"class" : {
+		"functionClass" : "Richo 6/28/2011 11:31",
+		"metaFunctionClass" : "Richo 3/21/2012 18:50",
+		"metaStructClass" : "Richo 1/13/2012 18:19",
+		"newFunctionFor:selector:body:arguments:temporaries:returnType:selfType:" : "Richo 3/21/2012 18:49",
+		"newProgramNamed:" : "Richo 6/28/2011 11:24",
+		"newStructFor:" : "Richo 1/13/2012 18:50",
+		"newTypeFor:" : "Richo 10/7/2011 19:07",
+		"newVariableNamed:type:" : "Richo 6/28/2011 11:49",
+		"primFunctionClass" : "Richo 3/21/2012 18:50",
+		"primStructClass" : "Richo 1/13/2012 18:18",
+		"programClass" : "Richo 6/28/2011 11:24",
+		"structClass" : "Richo 6/28/2011 16:05",
+		"typeClass" : "Richo 10/7/2011 19:07",
+		"variableClass" : "Richo 6/28/2011 16:06" },
+	"instance" : {
+		 } }

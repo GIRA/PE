@@ -1,0 +1,14 @@
+{
+	"category" : "CTranslator-Output-C",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"value" ],
+	"name" : "CType",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

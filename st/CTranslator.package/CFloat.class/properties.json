@@ -1,0 +1,14 @@
+{
+	"category" : "CTranslator-Hierarchy",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "CFloat",
+	"pools" : [
+		 ],
+	"super" : "CNumber",
+	"type" : "normal" }

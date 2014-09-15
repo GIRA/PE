@@ -1,0 +1,14 @@
+{
+	"category" : "CTranslator-Translators-C",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "Richo 9/28/2011 16:53",
+	"instvars" : [
+		 ],
+	"name" : "CKit",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

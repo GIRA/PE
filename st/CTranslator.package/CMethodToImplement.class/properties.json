@@ -1,0 +1,15 @@
+{
+	"category" : "CTranslator-Exceptions",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"methodClass",
+		"methodSelector" ],
+	"name" : "CMethodToImplement",
+	"pools" : [
+		 ],
+	"super" : "Notification",
+	"type" : "normal" }

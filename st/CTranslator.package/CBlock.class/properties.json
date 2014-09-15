@@ -1,0 +1,14 @@
+{
+	"category" : "CTranslator-Hierarchy",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "CBlock",
+	"pools" : [
+		 ],
+	"super" : "CPrimitiveType",
+	"type" : "normal" }

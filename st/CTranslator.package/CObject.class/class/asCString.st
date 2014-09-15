@@ -1,0 +1,3 @@
+converting
+asCString
+	^ self name

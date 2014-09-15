@@ -1,0 +1,14 @@
+{
+	"category" : "CTranslator-Utilities",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "Richo 6/28/2011 10:53",
+	"instvars" : [
+		"value" ],
+	"name" : "CPrimitiveRule",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

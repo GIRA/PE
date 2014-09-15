@@ -1,0 +1,13 @@
+{
+	"class" : {
+		"kit" : "Richo 9/28/2011 16:48",
+		"new" : "Richo 6/20/2011 20:59",
+		"translate:of:asProgramNamed:" : "Richo 10/11/2011 10:44" },
+	"instance" : {
+		"initializeWithProgram:" : "Richo 6/28/2011 11:34",
+		"isMarked:of:" : "Richo 10/20/2011 16:25",
+		"kit" : "Richo 9/28/2011 16:49",
+		"mark:of:" : "Richo 10/20/2011 16:25",
+		"methodTranslator" : "Richo 6/21/2011 15:33",
+		"translateMain:of:" : "Richo 1/3/2012 17:16",
+		"translateMethod:of:" : "Richo 1/3/2012 17:19" } }

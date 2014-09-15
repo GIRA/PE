@@ -1,0 +1,15 @@
+{
+	"category" : "CTranslator-Programs",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"var1",
+		"var2" ],
+	"name" : "CProgram2",
+	"pools" : [
+		 ],
+	"super" : "CProgram",
+	"type" : "normal" }

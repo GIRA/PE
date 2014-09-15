@@ -1,0 +1,3 @@
+accessing
+struct
+	^ struct

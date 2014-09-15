@@ -1,0 +1,15 @@
+{
+	"category" : "CTranslator-Output-C",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"varName",
+		"varType" ],
+	"name" : "CTranslatedVariable",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

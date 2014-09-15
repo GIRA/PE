@@ -1,0 +1,20 @@
+{
+	"class" : {
+		"named:" : "Richo 6/20/2011 20:49" },
+	"instance" : {
+		"addStruct:" : "Richo 1/13/2012 18:49",
+		"allIncludes" : "Richo 2/22/2012 09:45",
+		"asStringWithLineNumbers" : "Richo 3/27/2012 11:14",
+		"header" : "Richo 3/2/2012 16:28",
+		"headerFileName" : "Richo 6/28/2011 10:51",
+		"initialize" : "Richo 1/3/2012 17:00",
+		"mainDeclaration" : "Richo 2/22/2012 09:25",
+		"mainImplementation" : "Richo 10/13/2011 13:34",
+		"mainMethod" : "Richo 10/11/2011 17:19",
+		"methods" : "Richo 10/11/2011 17:21",
+		"name" : "Richo 6/20/2011 20:49",
+		"printOn:" : "Richo 10/11/2011 17:00",
+		"saveInDirectory:" : "Richo 6/21/2011 17:36",
+		"setName:" : "Richo 10/11/2011 17:03",
+		"source" : "Richo 3/2/2012 16:28",
+		"sourceFileName" : "Richo 6/28/2011 10:51" } }

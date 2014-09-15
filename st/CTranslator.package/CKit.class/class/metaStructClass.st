@@ -1,0 +1,3 @@
+factory methods
+metaStructClass
+	^ CTranslatedMetaStruct

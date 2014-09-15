@@ -1,0 +1,3 @@
+accessing
+sourceFileName 
+	^ programName, '.cpp'

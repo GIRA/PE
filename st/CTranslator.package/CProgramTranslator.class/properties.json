@@ -1,0 +1,15 @@
+{
+	"category" : "CTranslator-Translators-C",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "Richo 10/14/2011 14:30",
+	"instvars" : [
+		"program",
+		"markedMethods" ],
+	"name" : "CProgramTranslator",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

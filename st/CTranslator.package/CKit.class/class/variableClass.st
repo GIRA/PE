@@ -1,0 +1,3 @@
+factory methods
+variableClass
+	^ CTranslatedVariable

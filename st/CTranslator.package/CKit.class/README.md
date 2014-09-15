@@ -1,0 +1,1 @@
+A CKit is responsible for constructing a set of objects that represent the output from the translators.

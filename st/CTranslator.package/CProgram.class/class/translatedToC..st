@@ -1,0 +1,4 @@
+translating
+translatedToC: mainSelector
+	"Useful method to easily translate a program to c. By default the class name is used as program name"
+	^ self translatedToC: mainSelector named: self name

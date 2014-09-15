@@ -1,0 +1,21 @@
+{
+	"category" : "CTranslator-Output-C",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"ownerClass",
+		"body",
+		"arguments",
+		"temporaries",
+		"returnType",
+		"selfType",
+		"selector",
+		"isMain" ],
+	"name" : "CTranslatedFunction",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

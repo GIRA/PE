@@ -1,0 +1,15 @@
+{
+	"category" : "CTranslator-Output-C",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"programName",
+		"structs" ],
+	"name" : "CTranslatedProgram",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

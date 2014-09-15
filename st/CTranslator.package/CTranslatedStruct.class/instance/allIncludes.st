@@ -1,0 +1,3 @@
+accessing
+allIncludes
+	^ ownerClass allIncludes

@@ -1,0 +1,15 @@
+{
+	"category" : "CTranslator-Programs",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"value",
+		"next" ],
+	"name" : "CLinkedList",
+	"pools" : [
+		 ],
+	"super" : "CObject",
+	"type" : "normal" }

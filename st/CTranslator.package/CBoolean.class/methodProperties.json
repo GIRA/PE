@@ -1,0 +1,11 @@
+{
+	"class" : {
+		"asCString" : "Richo 10/7/2011 18:02" },
+	"instance" : {
+		"and:" : "Richo 6/20/2011 17:29",
+		"ifFalse:" : "Richo 6/20/2011 17:29",
+		"ifFalse:ifTrue:" : "Richo 6/20/2011 17:29",
+		"ifTrue:" : "Richo 6/20/2011 17:29",
+		"ifTrue:ifFalse:" : "Richo 6/20/2011 17:29",
+		"not" : "Richo 6/20/2011 17:29",
+		"or:" : "Richo 6/20/2011 17:29" } }
