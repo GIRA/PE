@@ -1,0 +1,1 @@
+Abstract class. Represents the port in which devices (such as motors and sensors) can be plugged

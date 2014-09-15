@@ -1,0 +1,14 @@
+{
+	"class" : {
+		"anglestepsmode" : "Richo 9/29/2008 14:22",
+		"booleanmode" : "Richo 9/29/2008 14:21",
+		"celsiusmode" : "Richo 9/29/2008 14:22",
+		"fahrenheitmode" : "Richo 9/29/2008 14:22",
+		"modemask" : "Richo 9/29/2008 14:23",
+		"pctfullscalemode" : "Richo 10/17/2008 15:35",
+		"periodcountermode" : "Richo 9/29/2008 14:21",
+		"rawmode" : "Richo 10/17/2008 15:36",
+		"slopemask" : "Richo 9/29/2008 14:23",
+		"transitioncntmode" : "Richo 9/29/2008 14:21" },
+	"instance" : {
+		 } }

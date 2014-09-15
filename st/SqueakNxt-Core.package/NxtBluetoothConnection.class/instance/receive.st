@@ -1,0 +1,3 @@
+receiving
+receive
+	^ port readByteArray

@@ -1,0 +1,3 @@
+constants-command types
+systemCommandTelegramResponseRequired
+^16r1

@@ -1,0 +1,28 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"beep" : "Richo 3/27/2012 09:26",
+		"brakeMotorOnPort:" : "Richo 12/23/2011 18:35",
+		"connectOnPort:" : "Richo 12/23/2011 18:25",
+		"correctTypeOf:onPort:" : "Richo 12/23/2011 18:39",
+		"disconnect" : "Richo 12/23/2011 18:21",
+		"floatMotorOnPort:" : "Richo 12/23/2011 18:35",
+		"getPowerOnPort:" : "Richo 12/23/2011 18:35",
+		"getSensorNormalizedValueOnPort:" : "Richo 12/23/2011 18:39",
+		"getSensorRawValueOnPort:" : "Richo 3/26/2012 11:46",
+		"getSensorScaledValueOnPort:" : "Richo 3/26/2012 11:47",
+		"getSensorUltrasonicValueOnPort:" : "Richo 12/23/2011 18:40",
+		"isCompiled" : "Richo 12/23/2011 19:25",
+		"isConnected" : "Richo 12/23/2011 18:20",
+		"nameSymbol" : "Richo 12/23/2011 18:21",
+		"playSoundFile:withLoop:" : "Richo 12/23/2011 18:28",
+		"playTone:duration:" : "Richo 12/23/2011 18:25",
+		"plugMotor:onPort:" : "Richo 12/23/2011 18:35",
+		"plugSensor:onPort:" : "Richo 12/23/2011 18:35",
+		"setPower:onPort:" : "Richo 12/23/2011 18:41",
+		"startProgram:" : "Richo 12/23/2011 18:28",
+		"stopPlayingSound" : "Richo 12/23/2011 18:28",
+		"stopProgram" : "Richo 12/23/2011 18:28",
+		"unplugMotorOnPort:" : "Richo 12/23/2011 18:35",
+		"unplugSensorOnPort:" : "Richo 12/23/2011 18:35" } }

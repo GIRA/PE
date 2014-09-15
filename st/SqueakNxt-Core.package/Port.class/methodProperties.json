@@ -1,0 +1,13 @@
+{
+	"class" : {
+		"new" : "Richo 3/27/2012 09:52",
+		"on:portNumber:" : "Richo 2/16/2009 15:27" },
+	"instance" : {
+		"isBusy" : "Richo 2/16/2009 14:36",
+		"pluggedDevice" : "Richo 4/6/2011 11:18",
+		"plug:" : "Richo 4/6/2011 11:18",
+		"portNumber" : "Richo 2/16/2009 15:51",
+		"sendPlugCommandFor:" : "Richo 2/16/2009 15:24",
+		"sendUnplugCommand" : "Richo 2/16/2009 15:24",
+		"setNxt:portNumber:" : "Richo 2/16/2009 15:27",
+		"unplug" : "Richo 2/16/2009 15:23" } }

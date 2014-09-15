@@ -1,0 +1,3 @@
+actions
+beep
+	protocol beep

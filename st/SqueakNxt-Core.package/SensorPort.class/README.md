@@ -1,0 +1,1 @@
+Represents the port in which you can connect sensors.

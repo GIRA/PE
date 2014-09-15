@@ -1,0 +1,13 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"brake" : "Richo 3/15/2010 12:06",
+		"float" : "Richo 3/27/2012 09:48",
+		"getPower" : "Richo 3/27/2012 09:48",
+		"getRotation" : "Richo 3/27/2012 09:48",
+		"printOn:" : "Richo 3/27/2012 09:48",
+		"resetRelative:" : "Richo 3/27/2012 09:48",
+		"sendPlugCommandFor:" : "Richo 3/15/2010 12:06",
+		"sendUnplugCommand" : "Richo 3/15/2010 12:06",
+		"setPower:" : "Richo 3/15/2010 12:06" } }

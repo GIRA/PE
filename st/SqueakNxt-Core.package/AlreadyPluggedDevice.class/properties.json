@@ -1,0 +1,14 @@
+{
+	"category" : "SqueakNxt-Core-Errors",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "AlreadyPluggedDevice",
+	"pools" : [
+		 ],
+	"super" : "Error",
+	"type" : "normal" }

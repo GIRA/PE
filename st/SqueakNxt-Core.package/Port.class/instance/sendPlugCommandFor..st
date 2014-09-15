@@ -1,0 +1,3 @@
+plugging
+sendPlugCommandFor: aNxtPluggableDevice 
+	self subclassResponsibility

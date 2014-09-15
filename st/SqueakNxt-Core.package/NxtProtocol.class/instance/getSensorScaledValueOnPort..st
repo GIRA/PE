@@ -1,0 +1,3 @@
+sensor actions
+getSensorScaledValueOnPort: aNumber
+	self subclassResponsibility

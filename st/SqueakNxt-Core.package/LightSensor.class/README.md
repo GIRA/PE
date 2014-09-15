@@ -1,0 +1,1 @@
+I represent a light sensor. I can be set as active (a little red lamp is on) or inactive (the sensor detects the ambient light)

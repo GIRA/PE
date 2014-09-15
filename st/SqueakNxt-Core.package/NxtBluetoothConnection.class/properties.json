@@ -1,0 +1,14 @@
+{
+	"category" : "SqueakNxt-Core-Protocol",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"port" ],
+	"name" : "NxtBluetoothConnection",
+	"pools" : [
+		 ],
+	"super" : "NxtConnection",
+	"type" : "normal" }

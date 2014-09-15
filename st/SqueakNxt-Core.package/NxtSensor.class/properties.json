@@ -1,0 +1,15 @@
+{
+	"category" : "SqueakNxt-Core",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "Richo 3/9/2010 15:27",
+	"instvars" : [
+		"type",
+		"mode" ],
+	"name" : "NxtSensor",
+	"pools" : [
+		 ],
+	"super" : "NxtPluggableDevice",
+	"type" : "normal" }

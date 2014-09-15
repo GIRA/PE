@@ -1,0 +1,3 @@
+testing
+isBusy
+^pluggedDevice notNil

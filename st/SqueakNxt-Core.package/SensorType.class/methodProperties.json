@@ -1,0 +1,17 @@
+{
+	"class" : {
+		"angle" : "Richo 9/29/2008 14:12",
+		"custom" : "Richo 9/29/2008 14:16",
+		"lightActive" : "Richo 9/29/2008 14:12",
+		"lightInactive" : "Richo 9/29/2008 14:12",
+		"lowspeed" : "Richo 9/29/2008 14:16",
+		"lowspeed9V" : "Richo 9/29/2008 14:16",
+		"noOfSensorTypes" : "Richo 9/29/2008 14:16",
+		"noSensor" : "Richo 9/29/2008 14:12",
+		"reflection" : "Richo 9/29/2008 14:12",
+		"soundDb" : "Richo 9/29/2008 14:16",
+		"soundDba" : "Richo 10/17/2008 17:00",
+		"switch" : "Richo 9/29/2008 14:12",
+		"temperature" : "Richo 9/29/2008 14:12" },
+	"instance" : {
+		 } }

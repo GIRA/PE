@@ -1,0 +1,16 @@
+{
+	"category" : "SqueakNxt-Core-Protocol",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"nxt",
+		"status",
+		"messages" ],
+	"name" : "NxtUSBConnection",
+	"pools" : [
+		 ],
+	"super" : "NxtConnection",
+	"type" : "normal" }

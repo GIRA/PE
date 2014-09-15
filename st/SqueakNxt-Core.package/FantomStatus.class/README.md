@@ -1,0 +1,1 @@
+A struct to hold status variables used by fantom api.

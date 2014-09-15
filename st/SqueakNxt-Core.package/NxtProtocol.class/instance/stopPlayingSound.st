@@ -1,0 +1,3 @@
+actions
+stopPlayingSound
+	self subclassResponsibility

@@ -1,0 +1,4 @@
+stepping
+startSteppingProcesses
+	self startAskingProcess;
+		startReceivingProcess

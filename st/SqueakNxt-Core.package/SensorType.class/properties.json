@@ -1,0 +1,14 @@
+{
+	"category" : "SqueakNxt-Core-Constants",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "SensorType",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

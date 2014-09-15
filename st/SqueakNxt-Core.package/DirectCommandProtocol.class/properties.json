@@ -1,0 +1,26 @@
+{
+	"category" : "SqueakNxt-Core-Protocol",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"connection",
+		"rawValues",
+		"normalizedValues",
+		"scaledValues",
+		"batteryLevel",
+		"lsBytesReady",
+		"lsBytesRead",
+		"lsRxData",
+		"lsCurrentPort",
+		"sensorTypes",
+		"sensorModes",
+		"askingProcess",
+		"receivingProcess" ],
+	"name" : "DirectCommandProtocol",
+	"pools" : [
+		 ],
+	"super" : "NxtProtocol",
+	"type" : "normal" }

@@ -1,0 +1,17 @@
+{
+	"category" : "SqueakNxt-Core",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "Richo 12/7/2010 16:44",
+	"instvars" : [
+		"protocol",
+		"motorPorts",
+		"sensorPorts",
+		"testProcess" ],
+	"name" : "LegoNxt",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

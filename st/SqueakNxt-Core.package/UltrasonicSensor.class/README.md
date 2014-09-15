@@ -1,0 +1,1 @@
+Represents an ultrasonic sensor

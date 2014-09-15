@@ -1,0 +1,14 @@
+{
+	"category" : "SqueakNxt-Core-Errors",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "NotConnectedLego",
+	"pools" : [
+		 ],
+	"super" : "Error",
+	"type" : "normal" }

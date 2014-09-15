@@ -1,0 +1,14 @@
+{
+	"category" : "SqueakNxt-Core-Fantom",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "Richo 3/22/2012 17:05",
+	"instvars" : [
+		 ],
+	"name" : "Fantom",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

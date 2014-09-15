@@ -1,0 +1,14 @@
+{
+	"category" : "SqueakNxt-Core",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "Richo 3/9/2010 15:29",
+	"instvars" : [
+		 ],
+	"name" : "MotorPort",
+	"pools" : [
+		 ],
+	"super" : "Port",
+	"type" : "normal" }

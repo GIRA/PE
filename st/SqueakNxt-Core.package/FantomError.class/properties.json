@@ -1,0 +1,14 @@
+{
+	"category" : "SqueakNxt-Core-Fantom",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "FantomError",
+	"pools" : [
+		 ],
+	"super" : "Error",
+	"type" : "normal" }

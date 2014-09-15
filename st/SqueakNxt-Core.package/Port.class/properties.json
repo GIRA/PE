@@ -1,0 +1,16 @@
+{
+	"category" : "SqueakNxt-Core",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "Richo 3/9/2010 15:28",
+	"instvars" : [
+		"nxt",
+		"pluggedDevice",
+		"portNumber" ],
+	"name" : "Port",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

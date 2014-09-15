@@ -1,0 +1,3 @@
+plugging
+isPlugged
+	^ port notNil

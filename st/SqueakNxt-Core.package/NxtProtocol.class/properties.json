@@ -1,0 +1,14 @@
+{
+	"category" : "SqueakNxt-Core-Protocol",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "NxtProtocol",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

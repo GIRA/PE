@@ -1,0 +1,3 @@
+plugging
+sendUnplugCommand
+	nxt protocol unplugMotorOnPort: portNumber

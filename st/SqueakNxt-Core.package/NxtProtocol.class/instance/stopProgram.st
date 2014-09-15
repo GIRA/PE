@@ -1,0 +1,3 @@
+actions
+stopProgram
+	self subclassResponsibility

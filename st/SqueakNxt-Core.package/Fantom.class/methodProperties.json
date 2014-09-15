@@ -1,0 +1,14 @@
+{
+	"class" : {
+		"apiCreateNxtIteratorSearchBluetooth:for:status:" : "Richo 4/12/2012 17:48",
+		"apiCreateNxt:status:checkFirwareVersion:" : "Richo 4/12/2012 17:48",
+		"apiDestroyNxtIterator:status:" : "Richo 4/12/2012 17:48",
+		"apiDestroyNxt:status:" : "Richo 4/12/2012 17:48",
+		"apiNxtgetDeviceInfo:name:bluetoothAddress:signalStrength:availableFlash:status:" : "Richo 4/12/2012 17:48",
+		"apiNxtIteratorAdvance:status:" : "Richo 4/12/2012 17:48",
+		"apiNxtIteratorGetName:resourceName:status:" : "Richo 4/12/2012 17:48",
+		"apiNxtIteratorGetNxt:status:" : "Richo 4/12/2012 17:48",
+		"apiSendDirectCommand:requireResponse:commandBuffer:commandBufferSize:responseBuffer:responseBufferSize:status:" : "Richo 4/12/2012 17:48",
+		"deviceNameOn:" : "Richo 3/27/2012 17:54" },
+	"instance" : {
+		 } }
