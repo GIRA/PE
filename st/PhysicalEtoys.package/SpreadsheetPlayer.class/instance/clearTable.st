@@ -1,0 +1,3 @@
+spreadsheet
+clearTable
+^self costume renderedMorph clearTable

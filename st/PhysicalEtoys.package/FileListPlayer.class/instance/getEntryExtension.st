@@ -1,0 +1,3 @@
+slots
+getEntryExtension
+^self costume renderedMorph selectedEntryExtension

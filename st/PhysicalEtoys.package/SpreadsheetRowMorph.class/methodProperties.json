@@ -1,0 +1,18 @@
+{
+	"class" : {
+		"numberOfCells:" : "Richo 6/17/2010 16:19" },
+	"instance" : {
+		"addCell" : "Richo 6/18/2010 10:47",
+		"cellAt:" : "Richo 1/22/2013 16:34",
+		"cellNumericValueAt:" : "Richo 6/29/2010 17:37",
+		"cellNumericValueAt:put:" : "Richo 6/28/2010 23:07",
+		"cellValueAt:" : "Richo 6/29/2010 11:40",
+		"cellValueAt:put:" : "Richo 6/28/2010 23:12",
+		"column:width:" : "Richo 1/22/2013 16:09",
+		"defersHaloToInteriorMorph:" : "Richo 6/17/2010 23:48",
+		"initialize" : "Richo 6/17/2010 19:18",
+		"initializeSubmorphs" : "Richo 6/17/2010 18:38",
+		"newTextMorphWithContents:" : "Richo 1/22/2013 16:00",
+		"notifyExtentChange:" : "Richo 1/22/2013 16:30",
+		"removeCell" : "Richo 6/17/2010 18:36",
+		"setNumberOfCells:" : "Richo 6/17/2010 16:20" } }

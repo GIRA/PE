@@ -1,0 +1,16 @@
+{
+	"category" : "PhysicalEtoys-Skeleton-Base",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "tak 12/30/2003 00:23",
+	"instvars" : [
+		"dictionary",
+		"key",
+		"isKey" ],
+	"name" : "SkDictionaryCell",
+	"pools" : [
+		 ],
+	"super" : "SkNullCell",
+	"type" : "normal" }

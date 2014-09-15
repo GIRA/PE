@@ -1,0 +1,13 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"checkMousePosition" : "Richo 1/8/2013 18:28",
+		"delete" : "Richo 1/8/2013 18:23",
+		"handleListenEvent:" : "Richo 1/8/2013 18:42",
+		"initialize" : "Richo 1/8/2013 18:23",
+		"initializeSubmorphs" : "Richo 1/8/2013 18:11",
+		"moveArrow" : "Richo 1/8/2013 18:12",
+		"step" : "Richo 1/8/2013 18:25",
+		"stepTime" : "Richo 1/8/2013 18:12",
+		"updatePosition" : "Richo 1/8/2013 18:22" } }

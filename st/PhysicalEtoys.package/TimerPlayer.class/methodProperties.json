@@ -1,0 +1,13 @@
+{
+	"class" : {
+		"isUniClass" : "Richo 2/27/2013 20:02",
+		"officialClass" : "Richo 2/27/2013 20:03",
+		"wantsChangeSetLogging" : "Richo 2/27/2013 20:03" },
+	"instance" : {
+		"getCurrent" : "Richo 2/27/2013 19:11",
+		"getInterval" : "Richo 3/5/2013 18:26",
+		"setCurrent:" : "Richo 2/27/2013 20:13",
+		"setInterval:" : "Richo 3/5/2013 18:27",
+		"startCountdown" : "Richo 2/27/2013 20:25",
+		"startCountdownFrom:" : "Richo 2/27/2013 20:14",
+		"stopCountdown" : "Richo 2/27/2013 19:10" } }

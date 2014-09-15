@@ -1,0 +1,14 @@
+{
+	"category" : "PhysicalEtoys-UI-Wiring",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "Richo 9/15/2009 12:22",
+	"instvars" : [
+		"isControllingConnections" ],
+	"name" : "PEWireMorph",
+	"pools" : [
+		 ],
+	"super" : "NCAAConnectorMorph",
+	"type" : "normal" }

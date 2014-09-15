@@ -1,0 +1,21 @@
+{
+	"category" : "PhysicalEtoys-CompilerSupport",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "Richo 3/30/2012 17:19",
+	"instvars" : [
+		"getterSelectors",
+		"scriptSelectors",
+		"setterSelectors",
+		"currentMorph",
+		"variables",
+		"methods",
+		"mainMorph",
+		"timers" ],
+	"name" : "PlayerTranslator",
+	"pools" : [
+		 ],
+	"super" : "RBProgramNodeVisitor",
+	"type" : "normal" }

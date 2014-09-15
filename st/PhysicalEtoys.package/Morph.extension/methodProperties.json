@@ -1,0 +1,9 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"addHalo:" : "tak 9/23/2003 11:41",
+		"arrowTargets" : "tak 10/1/2003 12:35",
+		"endHaloInteraction" : "tak 12/27/2003 08:07",
+		"showPointArrow" : "tak 10/1/2003 12:34",
+		"showPointArrowFrom:to:label:" : "Richo 10/18/2011 12:10" } }

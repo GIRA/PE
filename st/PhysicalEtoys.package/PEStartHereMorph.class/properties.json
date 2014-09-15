@@ -1,0 +1,18 @@
+{
+	"category" : "PhysicalEtoys-UI",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"arrow",
+		"label",
+		"arrowSpeed",
+		"mousePos",
+		"mouseStart" ],
+	"name" : "PEStartHereMorph",
+	"pools" : [
+		 ],
+	"super" : "Morph",
+	"type" : "normal" }

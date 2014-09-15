@@ -1,0 +1,14 @@
+{
+	"category" : "PhysicalEtoys-Graphing",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "EtoysTileSource",
+	"pools" : [
+		 ],
+	"super" : "TilePadMorph",
+	"type" : "normal" }

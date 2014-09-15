@@ -1,0 +1,3 @@
+actions
+stopCountdown
+	isStarted := false

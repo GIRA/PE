@@ -1,0 +1,3 @@
+slots
+getEntryName
+^self costume renderedMorph selectedEntryName

@@ -1,0 +1,3 @@
+stepping
+isRunning
+	^ state == #running

@@ -1,0 +1,3 @@
+accessing
+codeName
+	^ self subclassResponsibility

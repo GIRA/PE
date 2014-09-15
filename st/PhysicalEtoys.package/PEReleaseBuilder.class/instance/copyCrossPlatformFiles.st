@@ -1,0 +1,4 @@
+releasing
+copyCrossPlatformFiles
+	self crossPlatformDirectory
+		copyContentsTo: FileDirectory default

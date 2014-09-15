@@ -1,0 +1,22 @@
+{
+	"class" : {
+		"defaultNameStemForInstances" : "Richo 4/6/2011 10:47",
+		"fromMorph:toMorph:" : "Richo 3/9/2010 10:28",
+		"validConnectionClasses" : "Richo 11/10/2009 12:25" },
+	"instance" : {
+		"addCustomMenuItems:hand:" : "Richo 3/9/2010 10:26",
+		"controlConnections" : "Richo 3/9/2010 10:26",
+		"handlesMouseOverDragging:" : "Richo 10/7/2008 15:25",
+		"handlesMouseOver:" : "Richo 10/7/2008 15:25",
+		"hasValidClass:" : "Richo 9/8/2009 13:47",
+		"initialize" : "Richo 3/9/2010 10:28",
+		"isPlugged" : "Richo 2/11/2009 13:44",
+		"startControllingConnections" : "Richo 9/1/2009 11:53",
+		"step" : "Richo 11/10/2009 12:08",
+		"stepTime" : "Richo 11/10/2009 12:08",
+		"stopControllingConnections" : "Richo 9/1/2009 11:53",
+		"understandsBorderVocabulary" : "Richo 10/7/2008 15:07",
+		"wantsConnectionVocabulary" : "Richo 10/7/2008 18:21",
+		"wantsConnectorVocabulary" : "Richo 10/7/2008 15:04",
+		"wantsEmbeddingsVocabulary" : "Richo 10/7/2008 18:21",
+		"wantsToAttachEnd:toMorph:" : "Richo 9/8/2009 13:46" } }

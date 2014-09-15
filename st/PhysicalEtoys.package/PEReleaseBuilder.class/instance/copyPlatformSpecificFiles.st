@@ -1,0 +1,4 @@
+releasing
+copyPlatformSpecificFiles
+	self platformSpecificDirectory
+		copyContentsTo: FileDirectory default

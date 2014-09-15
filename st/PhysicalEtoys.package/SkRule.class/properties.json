@@ -1,0 +1,16 @@
+{
+	"category" : "PhysicalEtoys-Skeleton-Base",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"observer",
+		"subjects",
+		"rule" ],
+	"name" : "SkRule",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

@@ -1,0 +1,15 @@
+{
+	"category" : "PhysicalEtoys-Spreadsheet",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "Richo 9/5/2011 16:37",
+	"instvars" : [
+		"spreadsheet",
+		"scrollPane" ],
+	"name" : "ScrollableSpreadsheetMorph",
+	"pools" : [
+		 ],
+	"super" : "Morph",
+	"type" : "normal" }

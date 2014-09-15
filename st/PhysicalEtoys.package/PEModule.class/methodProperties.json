@@ -1,0 +1,22 @@
+{
+	"class" : {
+		"defaultDirectory" : "Richo 1/11/2013 15:17",
+		"initialize" : "Richo 3/14/2012 19:25",
+		"isValidName:" : "Richo 3/14/2012 18:41",
+		"named:" : "Richo 3/14/2012 18:02",
+		"peModuleExtension" : "Richo 3/14/2012 18:41" },
+	"instance" : {
+		"close" : "Richo 3/14/2012 18:05",
+		"defaultDirectory" : "Richo 3/14/2012 18:03",
+		"deleteAllDirectoriesExtracted" : "Richo 3/14/2012 18:23",
+		"deleteAllFilesExtracted" : "Richo 3/14/2012 18:10",
+		"directories" : "Richo 3/14/2012 18:23",
+		"extractAll" : "Richo 3/14/2012 18:03",
+		"files" : "Richo 3/14/2012 18:20",
+		"initializeWith:" : "Richo 3/14/2012 18:05",
+		"install" : "Richo 3/14/2012 18:56",
+		"loadSourceFiles" : "Richo 3/14/2012 18:06",
+		"loadSourceFile:" : "Richo 3/14/2012 18:08",
+		"name" : "Richo 3/14/2012 18:36",
+		"rollBack" : "Richo 3/14/2012 18:45",
+		"validSourceTypes" : "Richo 3/14/2012 18:07" } }

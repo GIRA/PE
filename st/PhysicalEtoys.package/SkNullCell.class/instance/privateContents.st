@@ -1,0 +1,3 @@
+accessing
+privateContents
+	^ self contents

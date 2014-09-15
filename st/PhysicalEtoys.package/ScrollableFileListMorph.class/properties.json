@@ -1,0 +1,15 @@
+{
+	"category" : "PhysicalEtoys-FileList",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"fileList",
+		"scrollPane" ],
+	"name" : "ScrollableFileListMorph",
+	"pools" : [
+		 ],
+	"super" : "Morph",
+	"type" : "normal" }

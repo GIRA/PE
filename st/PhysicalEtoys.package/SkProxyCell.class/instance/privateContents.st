@@ -1,0 +1,3 @@
+accessing
+privateContents
+	^ holderCell contents

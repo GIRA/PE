@@ -1,0 +1,1 @@
+This is just a simple morph that, when put in a World, it would force all opened TextMorphs to translate their contents (even if the user didn't mark them as "translatable").

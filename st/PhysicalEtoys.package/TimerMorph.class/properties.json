@@ -1,0 +1,19 @@
+{
+	"category" : "PhysicalEtoys-Timer",
+	"classinstvars" : [
+		"form" ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"scriptSelector",
+		"current",
+		"isStarted",
+		"startTime",
+		"offset",
+		"interval" ],
+	"name" : "TimerMorph",
+	"pools" : [
+		 ],
+	"super" : "Morph",
+	"type" : "normal" }

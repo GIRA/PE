@@ -1,0 +1,3 @@
+updating
+collectDependentsForCard: aPoint 
+	^nil

@@ -1,0 +1,26 @@
+{
+	"class" : {
+		"additionsToViewerCategories" : "Richo 10/18/2011 13:04",
+		"descriptionForPartsBin" : "Richo 10/18/2011 12:33" },
+	"instance" : {
+		"addPageControls" : "Richo 10/18/2011 12:29",
+		"addSheet:" : "Richo 10/18/2011 11:44",
+		"area:" : "Richo 10/18/2011 11:53",
+		"color:" : "Richo 10/18/2011 16:26",
+		"doesNotUnderstand:" : "Richo 10/18/2011 12:23",
+		"extent:" : "Richo 10/18/2011 12:28",
+		"fillStyle:" : "Richo 10/18/2011 15:58",
+		"initialize" : "Richo 10/18/2011 12:26",
+		"model" : "Richo 10/18/2011 11:53",
+		"pageControls" : "Richo 10/18/2011 11:42",
+		"prevButtonForm" : "Richo 10/18/2011 11:27",
+		"replaceSubmorph:by:" : "Richo 10/18/2011 12:18",
+		"selection" : "Richo 10/18/2011 11:51",
+		"selectSelection:" : "Richo 10/18/2011 11:53",
+		"setNameTo:" : "Richo 10/18/2011 12:14",
+		"showFormula" : "Richo 10/18/2011 15:35",
+		"step" : "Richo 10/18/2011 11:55",
+		"tickMorph" : "Richo 10/18/2011 11:24",
+		"title" : "Richo 10/18/2011 15:55",
+		"upButtonForm" : "Richo 10/18/2011 11:14",
+		"visibleArea" : "Richo 10/18/2011 11:53" } }

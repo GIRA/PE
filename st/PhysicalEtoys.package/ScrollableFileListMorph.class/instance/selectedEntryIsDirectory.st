@@ -1,0 +1,3 @@
+accessing
+selectedEntryIsDirectory
+^fileList selectedEntryIsDirectory

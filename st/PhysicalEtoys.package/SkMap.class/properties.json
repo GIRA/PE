@@ -1,0 +1,14 @@
+{
+	"category" : "PhysicalEtoys-Skeleton-Base",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"map" ],
+	"name" : "SkMap",
+	"pools" : [
+		 ],
+	"super" : "SkNamed",
+	"type" : "normal" }

@@ -1,0 +1,14 @@
+{
+	"category" : "PhysicalEtoys-SerialPort",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "Richo 3/9/2010 10:21",
+	"instvars" : [
+		 ],
+	"name" : "PESerialPortList",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

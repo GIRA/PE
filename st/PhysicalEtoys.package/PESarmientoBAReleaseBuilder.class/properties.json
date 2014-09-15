@@ -1,0 +1,14 @@
+{
+	"category" : "PhysicalEtoys-Release",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "PESarmientoBAReleaseBuilder",
+	"pools" : [
+		 ],
+	"super" : "PEReleaseBuilder",
+	"type" : "normal" }

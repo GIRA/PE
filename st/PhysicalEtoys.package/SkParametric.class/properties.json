@@ -1,0 +1,16 @@
+{
+	"category" : "PhysicalEtoys-Skeleton-Base-Sheet",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"func",
+		"arg1",
+		"arg2" ],
+	"name" : "SkParametric",
+	"pools" : [
+		 ],
+	"super" : "SkObject",
+	"type" : "normal" }

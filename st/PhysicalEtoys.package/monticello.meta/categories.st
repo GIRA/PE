@@ -1,0 +1,16 @@
+SystemOrganization addCategory: #'PhysicalEtoys-SerialPort'!
+SystemOrganization addCategory: #'PhysicalEtoys-CompilerSupport'!
+SystemOrganization addCategory: #'PhysicalEtoys-Installer'!
+SystemOrganization addCategory: #'PhysicalEtoys-Projects'!
+SystemOrganization addCategory: #'PhysicalEtoys-FileList'!
+SystemOrganization addCategory: #'PhysicalEtoys-Gettext'!
+SystemOrganization addCategory: #'PhysicalEtoys-Graphing'!
+SystemOrganization addCategory: #'PhysicalEtoys-Spreadsheet'!
+SystemOrganization addCategory: #'PhysicalEtoys-Timer'!
+SystemOrganization addCategory: #'PhysicalEtoys-UI'!
+SystemOrganization addCategory: #'PhysicalEtoys-UI-Wiring'!
+SystemOrganization addCategory: #'PhysicalEtoys-Utilities'!
+SystemOrganization addCategory: #'PhysicalEtoys-CSV'!
+SystemOrganization addCategory: #'PhysicalEtoys-Release'!
+SystemOrganization addCategory: #'PhysicalEtoys-Skeleton-Base'!
+SystemOrganization addCategory: #'PhysicalEtoys-Skeleton-Base-Sheet'!

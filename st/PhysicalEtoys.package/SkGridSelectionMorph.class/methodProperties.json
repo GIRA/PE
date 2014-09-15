@@ -1,0 +1,24 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"area:" : "tak 1/21/2004 10:29",
+		"borderStyle" : "tak 1/8/2004 23:48",
+		"deleteEditor" : "tak 12/12/2003 15:09",
+		"doubleClick:" : "tak 1/12/2004 22:05",
+		"drawOn:" : "tak 12/21/2003 19:06",
+		"editor" : "tak 1/7/2004 21:37",
+		"expandSize" : "tak 1/22/2004 12:54",
+		"externalName" : "tak 1/21/2004 10:29",
+		"fillStyle" : "tak 1/8/2004 23:48",
+		"handlesKeyboard:" : "tak 12/16/2003 17:02",
+		"handlesMouseDown:" : "tak 12/16/2003 17:14",
+		"initialize" : "tak 1/22/2004 12:49",
+		"installEditor" : "tak 12/30/2003 17:00",
+		"invokeMenu:" : "tak 4/10/2004 23:02",
+		"keyStroke:" : "tak 1/21/2004 10:27",
+		"model" : "tak 12/24/2003 10:00",
+		"mouseDown:" : "tak 12/16/2003 22:31",
+		"mouseMove:" : "tak 12/21/2003 16:54",
+		"screenToCell:" : "tak 12/21/2003 19:43",
+		"setExtentFromHalo:" : "tak 12/28/2003 10:55" } }

@@ -1,0 +1,14 @@
+{
+	"category" : "PhysicalEtoys-Skeleton-Base",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"sheet" ],
+	"name" : "SkSheetMorph",
+	"pools" : [
+		 ],
+	"super" : "Morph",
+	"type" : "normal" }

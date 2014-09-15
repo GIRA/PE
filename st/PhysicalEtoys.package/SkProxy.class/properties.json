@@ -1,0 +1,17 @@
+{
+	"category" : "PhysicalEtoys-Skeleton-Base",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"rule",
+		"map",
+		"size",
+		"direction" ],
+	"name" : "SkProxy",
+	"pools" : [
+		 ],
+	"super" : "SkObject",
+	"type" : "normal" }

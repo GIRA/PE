@@ -1,0 +1,3 @@
+stepping
+isStopped
+	^ state == #stopped

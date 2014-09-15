@@ -1,0 +1,14 @@
+{
+	"category" : "PhysicalEtoys-Skeleton-Base",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "tak 4/10/2004 22:24",
+	"instvars" : [
+		 ],
+	"name" : "SkeletonBaseInfo",
+	"pools" : [
+		 ],
+	"super" : "PackageInfo",
+	"type" : "normal" }

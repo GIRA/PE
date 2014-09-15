@@ -1,0 +1,14 @@
+{
+	"category" : "PhysicalEtoys-UI-Wiring",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "Richo 3/9/2010 10:20",
+	"instvars" : [
+		 ],
+	"name" : "PEAttachmentPointMorph",
+	"pools" : [
+		 ],
+	"super" : "CircleMorph",
+	"type" : "normal" }

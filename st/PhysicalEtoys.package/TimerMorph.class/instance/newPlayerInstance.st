@@ -1,0 +1,3 @@
+initializing
+newPlayerInstance
+	^ TimerPlayer newUserInstance

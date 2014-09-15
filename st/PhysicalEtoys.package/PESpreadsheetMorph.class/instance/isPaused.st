@@ -1,0 +1,3 @@
+stepping
+isPaused
+	^ state == #paused

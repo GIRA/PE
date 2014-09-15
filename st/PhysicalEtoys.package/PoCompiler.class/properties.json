@@ -1,0 +1,14 @@
+{
+	"category" : "PhysicalEtoys-Gettext",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "PoCompiler",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

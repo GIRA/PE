@@ -1,0 +1,10 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"copyContentsTo:" : "Richo 12/27/2012 18:28",
+		"createTemporaryDirectory" : "Richo 3/8/2012 16:57",
+		"fileNamed:do:" : "Richo 10/26/2011 12:13",
+		"forceNewFileNamed:do:" : "Richo 10/21/2011 18:44",
+		"temporaryDirectoryDo:" : "Richo 3/8/2012 16:51",
+		"writeProject:inFileNamed:fromDirectory:" : "Richo 5/24/2012 18:02" } }

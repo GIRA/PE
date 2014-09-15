@@ -1,0 +1,3 @@
+drawing
+stepTime
+	^ 100

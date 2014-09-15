@@ -1,0 +1,3 @@
+accessing
+numberOfRows
+^spreadsheet numberOfRows

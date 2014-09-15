@@ -1,0 +1,14 @@
+{
+	"category" : "PhysicalEtoys-Spreadsheet",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"numberOfCells" ],
+	"name" : "SpreadsheetRowMorph",
+	"pools" : [
+		 ],
+	"super" : "Morph",
+	"type" : "normal" }

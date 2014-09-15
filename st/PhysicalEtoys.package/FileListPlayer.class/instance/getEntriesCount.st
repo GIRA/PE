@@ -1,0 +1,3 @@
+slots
+getEntriesCount
+^self costume renderedMorph entriesCount

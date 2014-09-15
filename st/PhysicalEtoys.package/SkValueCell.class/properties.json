@@ -1,0 +1,19 @@
+{
+	"category" : "PhysicalEtoys-Skeleton-Base",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"formula",
+		"block",
+		"model",
+		"getter",
+		"setter",
+		"oldValue" ],
+	"name" : "SkValueCell",
+	"pools" : [
+		 ],
+	"super" : "SkNullCell",
+	"type" : "normal" }

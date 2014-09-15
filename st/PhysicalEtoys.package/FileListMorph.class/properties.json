@@ -1,0 +1,17 @@
+{
+	"category" : "PhysicalEtoys-FileList",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"directory",
+		"selectedEntry",
+		"filter",
+		"showDirectories" ],
+	"name" : "FileListMorph",
+	"pools" : [
+		 ],
+	"super" : "Morph",
+	"type" : "normal" }

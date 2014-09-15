@@ -1,0 +1,14 @@
+{
+	"category" : "PhysicalEtoys-Skeleton-Base",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "tak 1/11/2004 13:58",
+	"instvars" : [
+		"parent" ],
+	"name" : "SkNamed",
+	"pools" : [
+		 ],
+	"super" : "SkObject",
+	"type" : "normal" }

@@ -1,0 +1,11 @@
+{
+	"class" : {
+		"buildLoadButtons:fileList:reallyLoad:" : "Richo 3/7/2012 12:27",
+		"buildSaveButtons:fileList:" : "Richo 4/13/2012 17:42",
+		"modalFolderSelectorForProject:" : "Richo 3/7/2012 12:43",
+		"morphicViewProjectSaverFor:" : "Richo 3/7/2012 12:45",
+		"projectOnlySelectionMethod:" : "Richo 3/7/2012 12:23" },
+	"instance" : {
+		"limitedSuperSwikiDirectoryList" : "Richo 1/2/2013 12:41",
+		"limitedSuperSwikiDirectoryListOld" : "Richo 1/2/2013 12:41",
+		"openProjectFromFile" : "Richo 3/7/2012 12:21" } }

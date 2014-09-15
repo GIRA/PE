@@ -1,0 +1,14 @@
+{
+	"category" : "PhysicalEtoys-Utilities",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"block" ],
+	"name" : "PluggableListType",
+	"pools" : [
+		 ],
+	"super" : "SymbolListType",
+	"type" : "normal" }

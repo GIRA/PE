@@ -1,0 +1,16 @@
+{
+	"category" : "PhysicalEtoys-UI",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"message",
+		"translatedCode",
+		"originalCode" ],
+	"name" : "PESyntaxError",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

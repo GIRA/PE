@@ -1,0 +1,3 @@
+structure
+rule
+	^ self class

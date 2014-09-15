@@ -1,0 +1,14 @@
+{
+	"category" : "PhysicalEtoys-Release",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "PEConectarIgualdadReleaseBuilder",
+	"pools" : [
+		 ],
+	"super" : "PEReleaseBuilder",
+	"type" : "normal" }

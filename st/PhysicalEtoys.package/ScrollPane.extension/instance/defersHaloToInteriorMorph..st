@@ -1,0 +1,3 @@
+*PhysicalEtoys
+defersHaloToInteriorMorph: aMorph
+^true

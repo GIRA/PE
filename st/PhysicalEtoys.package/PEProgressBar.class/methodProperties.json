@@ -1,0 +1,7 @@
+{
+	"class" : {
+		"label:subLabel:" : "Richo 12/26/2012 16:47" },
+	"instance" : {
+		"buildProgressMorph" : "Richo 12/26/2012 17:00",
+		"initializeWithLabel:subLabel:" : "Richo 12/26/2012 16:48",
+		"showWhile:timeout:" : "Richo 12/26/2012 16:54" } }

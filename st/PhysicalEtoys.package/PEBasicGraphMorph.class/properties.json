@@ -1,0 +1,21 @@
+{
+	"category" : "PhysicalEtoys-Graphing",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"form",
+		"pen",
+		"cartesianBounds",
+		"points",
+		"startTime",
+		"isGraphing",
+		"source",
+		"lastTimeChanged" ],
+	"name" : "PEBasicGraphMorph",
+	"pools" : [
+		 ],
+	"super" : "Morph",
+	"type" : "normal" }

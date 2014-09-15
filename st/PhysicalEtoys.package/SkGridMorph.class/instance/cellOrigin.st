@@ -1,0 +1,3 @@
+accessing
+cellOrigin
+	^ area origin

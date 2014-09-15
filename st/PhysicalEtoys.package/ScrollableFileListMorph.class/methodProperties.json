@@ -1,0 +1,26 @@
+{
+	"class" : {
+		"additionsToViewerCategories" : "Richo 7/22/2010 16:34",
+		"descriptionForPartsBin" : "Richo 4/12/2011 15:16" },
+	"instance" : {
+		"directory:" : "",
+		"doesNotUnderstand:" : "Richo 7/25/2010 16:41",
+		"entriesCount" : "Richo 7/22/2010 17:07",
+		"extent:" : "Richo 7/22/2010 15:25",
+		"filter" : "",
+		"filter:" : "",
+		"initialize" : "Richo 7/22/2010 16:26",
+		"newPlayerInstance" : "Richo 7/22/2010 16:36",
+		"openDirectory" : "Richo 7/22/2010 17:19",
+		"selectedEntryExtension" : "Richo 7/22/2010 21:01",
+		"selectedEntryIndex" : "Richo 7/22/2010 16:57",
+		"selectedEntryIndex:" : "Richo 7/22/2010 17:16",
+		"selectedEntryIsDirectory" : "Richo 7/22/2010 17:01",
+		"selectedEntryName" : "Richo 7/22/2010 16:38",
+		"selectedEntryPath" : "Richo 7/22/2010 21:04",
+		"showDirectories" : "",
+		"showDirectories:" : "",
+		"step" : "Richo 7/22/2010 16:27",
+		"stepTime" : "Richo 7/22/2010 16:27",
+		"updateCurrentDirectory" : "",
+		"updateScrollPane" : "Richo 7/22/2010 15:14" } }

@@ -1,0 +1,11 @@
+{
+	"class" : {
+		"grid:border:" : "tak 12/27/2003 15:08" },
+	"instance" : {
+		"cellAreaToScreen:topLeft:" : "tak 12/27/2003 18:06",
+		"cellToScreenRect:topLeft:" : "tak 12/27/2003 18:03",
+		"createCacheFor:" : "tak 12/27/2003 18:02",
+		"createOffset:" : "tak 12/27/2003 15:15",
+		"extent" : "tak 12/27/2003 17:48",
+		"grid:border:" : "tak 12/29/2003 11:34",
+		"screenToCell:topLeft:" : "tak 12/27/2003 21:35" } }

@@ -1,0 +1,3 @@
+spreadsheet
+getTotalColumns
+^self costume renderedMorph numberOfColumns

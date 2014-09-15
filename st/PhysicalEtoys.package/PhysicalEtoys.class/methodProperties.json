@@ -1,0 +1,16 @@
+{
+	"class" : {
+		"authors" : "Richo 12/26/2012 17:23",
+		"currentVersion" : "Richo 12/27/2012 19:25",
+		"initialize" : "Richo 12/26/2012 17:24",
+		"installerScript" : "Richo 12/27/2012 17:57",
+		"license" : "Richo 12/26/2012 17:23",
+		"logo" : "Richo 12/26/2012 17:32",
+		"packages" : "Richo 12/27/2012 17:56",
+		"packageVersions" : "Richo 12/26/2012 17:23",
+		"projectFor:" : "Richo 12/26/2012 18:20",
+		"storeBaseRepositories" : "Richo 12/26/2012 17:24",
+		"uaiLogo" : "Richo 12/26/2012 17:33",
+		"website" : "Richo 12/26/2012 17:23" },
+	"instance" : {
+		 } }

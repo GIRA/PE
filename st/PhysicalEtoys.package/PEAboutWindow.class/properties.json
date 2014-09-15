@@ -1,0 +1,14 @@
+{
+	"category" : "PhysicalEtoys-UI",
+	"classinstvars" : [
+		"physicalEtoysForm" ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "PEAboutWindow",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

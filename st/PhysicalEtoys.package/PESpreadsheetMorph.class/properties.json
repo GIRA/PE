@@ -1,0 +1,19 @@
+{
+	"category" : "PhysicalEtoys-Spreadsheet",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "Richo 9/5/2011 16:37",
+	"instvars" : [
+		"time",
+		"fileName",
+		"spreadsheet",
+		"state",
+		"index",
+		"source" ],
+	"name" : "PESpreadsheetMorph",
+	"pools" : [
+		 ],
+	"super" : "Morph",
+	"type" : "normal" }

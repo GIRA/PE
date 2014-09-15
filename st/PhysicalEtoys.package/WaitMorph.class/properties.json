@@ -1,0 +1,15 @@
+{
+	"category" : "PhysicalEtoys-UI",
+	"classinstvars" : [
+		"form",
+		"default" ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"index" ],
+	"name" : "WaitMorph",
+	"pools" : [
+		 ],
+	"super" : "Morph",
+	"type" : "normal" }

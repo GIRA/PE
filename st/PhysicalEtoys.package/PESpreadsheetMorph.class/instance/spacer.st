@@ -1,0 +1,3 @@
+building
+spacer
+	^ AlignmentMorph newVariableTransparentSpacer

@@ -1,0 +1,3 @@
+accessing
+visibleArea
+	^ self area

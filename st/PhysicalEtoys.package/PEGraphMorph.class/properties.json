@@ -1,0 +1,16 @@
+{
+	"category" : "PhysicalEtoys-Graphing",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"basicGraph",
+		"slider",
+		"source" ],
+	"name" : "PEGraphMorph",
+	"pools" : [
+		 ],
+	"super" : "Morph",
+	"type" : "normal" }

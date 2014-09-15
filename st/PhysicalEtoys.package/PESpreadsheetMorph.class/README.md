@@ -1,0 +1,1 @@
+A spreadsheet that gets its input from a variable, letting you record its value and save it in a file.

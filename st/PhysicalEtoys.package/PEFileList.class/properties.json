@@ -1,0 +1,14 @@
+{
+	"category" : "PhysicalEtoys-Projects",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "PEFileList",
+	"pools" : [
+		 ],
+	"super" : "FileList2",
+	"type" : "normal" }

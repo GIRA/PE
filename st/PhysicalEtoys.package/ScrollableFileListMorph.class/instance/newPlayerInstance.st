@@ -1,0 +1,3 @@
+initialization
+newPlayerInstance
+	^fileList newPlayerInstance

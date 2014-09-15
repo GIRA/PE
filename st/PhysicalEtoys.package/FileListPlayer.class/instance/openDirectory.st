@@ -1,0 +1,3 @@
+commands
+openDirectory
+self costume renderedMorph openDirectory

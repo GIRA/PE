@@ -1,0 +1,14 @@
+{
+	"category" : "PhysicalEtoys-Utilities",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "MusicalNotePicker",
+	"pools" : [
+		 ],
+	"super" : "PianoKeyboardMorph",
+	"type" : "normal" }

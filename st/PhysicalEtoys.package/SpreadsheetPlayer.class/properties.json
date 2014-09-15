@@ -1,0 +1,17 @@
+{
+	"category" : "PhysicalEtoys-Spreadsheet",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"rowIndex",
+		"columnIndex",
+		"fileName",
+		"separator" ],
+	"name" : "SpreadsheetPlayer",
+	"pools" : [
+		 ],
+	"super" : "Player",
+	"type" : "normal" }

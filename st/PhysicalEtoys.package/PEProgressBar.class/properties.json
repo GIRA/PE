@@ -1,0 +1,15 @@
+{
+	"category" : "PhysicalEtoys-UI",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"label",
+		"subLabel" ],
+	"name" : "PEProgressBar",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

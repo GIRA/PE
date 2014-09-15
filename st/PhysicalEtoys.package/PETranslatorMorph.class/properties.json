@@ -1,0 +1,14 @@
+{
+	"category" : "PhysicalEtoys-Utilities",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "Richo 1/4/2013 15:58",
+	"instvars" : [
+		 ],
+	"name" : "PETranslatorMorph",
+	"pools" : [
+		 ],
+	"super" : "Morph",
+	"type" : "normal" }

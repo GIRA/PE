@@ -1,0 +1,18 @@
+{
+	"class" : {
+		"descriptionForPartsBin" : "Richo 12/26/2012 17:50",
+		"new" : "Richo 9/5/2011 14:20",
+		"newStandAlone" : "Richo 9/5/2011 16:12",
+		"on:" : "Richo 9/5/2011 16:35" },
+	"instance" : {
+		"button:color:" : "Richo 5/11/2011 17:48",
+		"extent:" : "Richo 5/11/2011 20:32",
+		"inARow:" : "Richo 5/11/2011 19:03",
+		"initialize" : "Richo 11/16/2012 15:17",
+		"initializeGraph" : "Richo 11/16/2012 15:17",
+		"initializeSubmorphs" : "Richo 11/16/2012 15:25",
+		"initializeWith:" : "Richo 11/16/2012 15:16",
+		"localeChanged" : "Richo 11/16/2012 15:16",
+		"newSliderFrom:to:" : "Richo 5/11/2011 19:25",
+		"step" : "Richo 5/11/2011 20:08",
+		"stepTime" : "Richo 5/11/2011 20:02" } }

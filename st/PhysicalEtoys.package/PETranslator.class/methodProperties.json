@@ -1,0 +1,23 @@
+{
+	"class" : {
+		"allTranslatedCallsFrom:" : "Richo 9/9/2011 18:44",
+		"createTranslationFileNamed:for:in:" : "Richo 11/5/2012 17:38",
+		"createTranslationFiles" : "Richo 1/3/2013 17:49",
+		"createTranslationFilesForPackage:" : "Richo 1/22/2013 20:01",
+		"current" : "Richo 9/9/2011 16:15",
+		"directoryForLocaleID:" : "Richo 9/9/2011 16:36",
+		"directoryNamed:in:" : "Richo 9/9/2011 15:44",
+		"findAllStrings" : "Richo 12/26/2012 17:28",
+		"findAllStringsInPackageOld:" : "Richo 1/3/2013 18:17",
+		"findAllStringsInPackage:" : "Richo 1/3/2013 18:30",
+		"for:" : "Richo 9/9/2011 17:23",
+		"initialize" : "Richo 9/12/2011 12:44",
+		"resetTranslators" : "Richo 9/9/2011 17:23",
+		"shutDown" : "Richo 9/12/2011 12:44",
+		"translate:to:ifError:" : "Richo 9/9/2011 16:06",
+		"translators" : "Richo 9/9/2011 17:22",
+		"viewerCategoriesStringsFrom:" : "Richo 9/12/2011 09:58" },
+	"instance" : {
+		"completeness" : "Richo 1/7/2013 11:02",
+		"initializeWith:" : "Richo 11/6/2012 15:00",
+		"translate:ifError:" : "Richo 9/9/2011 16:07" } }

@@ -1,0 +1,16 @@
+{
+	"class" : {
+		"compileSqNumberParserIfNotFound" : "Richo 9/8/2011 16:06",
+		"encodeFileNamed:" : "Richo 11/17/2009 12:57",
+		"formFromEncodedPNG:" : "Richo 11/17/2009 12:58",
+		"frequencyFor:" : "Richo 1/17/2013 18:32",
+		"frequencyFor:ifAbsent:" : "Richo 1/17/2013 18:32",
+		"initialize" : "Richo 1/18/2013 16:13",
+		"isPEProject:" : "Richo 12/26/2012 17:11",
+		"makeNewFlapNamed:with:" : "Richo 11/17/2009 12:43",
+		"missingStrings" : "Richo 1/25/2013 17:31",
+		"noteNames" : "Richo 1/17/2013 18:32",
+		"notes" : "Richo 1/18/2013 16:44",
+		"runAllTestsInCategory:" : "Richo 4/6/2011 08:45" },
+	"instance" : {
+		 } }

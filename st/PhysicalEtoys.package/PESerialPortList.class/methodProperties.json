@@ -1,0 +1,12 @@
+{
+	"class" : {
+		"availableBluetoothPortsForMac" : "TS 9/3/2010 01:13",
+		"availableSerialPorts" : "Richo 6/8/2011 17:19",
+		"availableSerialPortsForMac" : "TS 9/3/2010 01:11",
+		"availableSerialPortsForUnix" : "Richo 4/11/2012 13:27",
+		"availableSerialPortsForWindows" : "Richo 1/6/2012 18:12",
+		"availableUSBPortsForMac" : "TS 9/3/2010 01:18",
+		"platformName" : "Richo 11/10/2009 16:13",
+		"watcher" : "Richo 6/16/2011 15:45" },
+	"instance" : {
+		 } }

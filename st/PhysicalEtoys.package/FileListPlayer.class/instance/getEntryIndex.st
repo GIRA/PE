@@ -1,0 +1,3 @@
+slots
+getEntryIndex
+^self costume renderedMorph selectedEntryIndex

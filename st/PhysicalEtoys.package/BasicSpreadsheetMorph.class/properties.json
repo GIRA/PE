@@ -1,0 +1,16 @@
+{
+	"category" : "PhysicalEtoys-Spreadsheet",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "Richo 9/5/2011 16:37",
+	"instvars" : [
+		"numberOfRows",
+		"numberOfColumns",
+		"overwrite" ],
+	"name" : "BasicSpreadsheetMorph",
+	"pools" : [
+		 ],
+	"super" : "Morph",
+	"type" : "normal" }

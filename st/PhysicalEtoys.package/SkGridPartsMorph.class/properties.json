@@ -1,0 +1,14 @@
+{
+	"category" : "PhysicalEtoys-Skeleton-Base",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"holder" ],
+	"name" : "SkGridPartsMorph",
+	"pools" : [
+		 ],
+	"super" : "SkGridMorph",
+	"type" : "normal" }

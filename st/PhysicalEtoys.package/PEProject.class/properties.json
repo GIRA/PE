@@ -1,0 +1,14 @@
+{
+	"category" : "PhysicalEtoys-Projects",
+	"classinstvars" : [
+		"root" ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "PEProject",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

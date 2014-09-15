@@ -1,0 +1,3 @@
+accessing
+clearTable
+spreadsheet clearTable

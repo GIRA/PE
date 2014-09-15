@@ -1,0 +1,19 @@
+{
+	"category" : "PhysicalEtoys-Skeleton-Base",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "tak 12/27/2003 16:55",
+	"instvars" : [
+		"border",
+		"grid",
+		"xCache",
+		"yCache",
+		"offset",
+		"cellTopLeft" ],
+	"name" : "SkCellScreenConverter",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

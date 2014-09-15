@@ -1,0 +1,3 @@
+slots
+getShowDirectories
+^self costume renderedMorph showDirectories

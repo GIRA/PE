@@ -1,0 +1,9 @@
+{
+	"class" : {
+		"defaultColor" : "tak 1/18/2004 20:30" },
+	"instance" : {
+		"initialize" : "tak 1/18/2004 20:42",
+		"resolve" : "tak 1/18/2004 20:31",
+		"setDistanceFrom:to:distance:" : "tak 1/19/2004 20:31",
+		"size:" : "tak 1/18/2004 20:42",
+		"wantsUpdate" : "tak 1/18/2004 20:33" } }

@@ -1,0 +1,14 @@
+{
+	"category" : "PhysicalEtoys-Timer",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "TimerPlayer",
+	"pools" : [
+		 ],
+	"super" : "Player",
+	"type" : "normal" }

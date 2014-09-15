@@ -1,0 +1,3 @@
+halo
+defersHaloToInteriorMorph: aMorph
+^true

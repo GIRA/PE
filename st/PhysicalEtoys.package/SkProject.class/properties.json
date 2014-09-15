@@ -1,0 +1,14 @@
+{
+	"category" : "PhysicalEtoys-Skeleton-Base",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "tak 1/25/2004 00:00",
+	"instvars" : [
+		"colorSet" ],
+	"name" : "SkProject",
+	"pools" : [
+		 ],
+	"super" : "SkDictionary",
+	"type" : "normal" }

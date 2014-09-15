@@ -1,0 +1,1 @@
+I am a full Skeleton package information.

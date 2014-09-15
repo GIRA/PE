@@ -1,0 +1,3 @@
+accessing
+namesSize
+	^ map size

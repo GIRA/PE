@@ -1,0 +1,14 @@
+{
+	"category" : "PhysicalEtoys-Utilities",
+	"classinstvars" : [
+		"translators" ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"translations" ],
+	"name" : "PETranslator",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

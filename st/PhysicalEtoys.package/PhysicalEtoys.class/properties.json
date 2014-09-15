@@ -1,0 +1,15 @@
+{
+	"category" : "PhysicalEtoys-Utilities",
+	"classinstvars" : [
+		"baseRepositories",
+		"physicalEtoysForm" ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "PhysicalEtoys",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

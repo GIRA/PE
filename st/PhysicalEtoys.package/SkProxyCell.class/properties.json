@@ -1,0 +1,15 @@
+{
+	"category" : "PhysicalEtoys-Skeleton-Base",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "tak 12/30/2003 14:07",
+	"instvars" : [
+		"holderCell",
+		"argCell" ],
+	"name" : "SkProxyCell",
+	"pools" : [
+		 ],
+	"super" : "SkNullCell",
+	"type" : "normal" }

@@ -1,0 +1,14 @@
+{
+	"category" : "PhysicalEtoys-Release",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "PELaRiojaReleaseBuilder",
+	"pools" : [
+		 ],
+	"super" : "PEReleaseBuilder",
+	"type" : "normal" }

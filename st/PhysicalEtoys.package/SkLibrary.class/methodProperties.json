@@ -1,0 +1,28 @@
+{
+	"class" : {
+		"collectDependents" : "tak 1/18/2004 16:23",
+		"defaultColor" : "tak 1/18/2004 19:44",
+		"direction:" : "tak 1/18/2004 15:52",
+		"direction:size:" : "tak 1/18/2004 16:40",
+		"wantsUpdate" : "tak 1/18/2004 20:10" },
+	"instance" : {
+		"argPositions" : "tak 1/18/2004 19:09",
+		"args" : "tak 1/20/2004 16:11",
+		"attachProject" : "tak 1/20/2004 22:07",
+		"cardList:" : "tak 1/18/2004 16:20",
+		"cellAt:ifAbsent:" : "tak 1/18/2004 19:19",
+		"direction" : "tak 1/18/2004 16:37",
+		"direction:" : "tak 1/18/2004 16:37",
+		"holder:at:" : "tak 1/25/2004 12:51",
+		"initialize" : "tak 1/25/2004 12:18",
+		"initializeArgs" : "tak 1/25/2004 12:41",
+		"initializeArgs:" : "tak 1/25/2004 12:37",
+		"parent" : "tak 1/18/2004 17:30",
+		"referenceAt:" : "tak 1/18/2004 19:09",
+		"releaseHolder" : "tak 1/25/2004 16:59",
+		"resolve" : "tak 1/18/2004 19:39",
+		"resolveOn:" : "tak 4/11/2004 01:11",
+		"rule" : "tak 1/18/2004 15:57",
+		"size" : "tak 1/18/2004 19:01",
+		"size:" : "tak 1/18/2004 19:24",
+		"wantsSteps" : "tak 1/20/2004 22:06" } }

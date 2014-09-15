@@ -1,0 +1,1 @@
+I am a base class of Skeleton object.

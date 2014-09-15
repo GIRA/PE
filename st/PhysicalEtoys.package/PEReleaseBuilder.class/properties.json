@@ -1,0 +1,14 @@
+{
+	"category" : "PhysicalEtoys-Release",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "PEReleaseBuilder",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

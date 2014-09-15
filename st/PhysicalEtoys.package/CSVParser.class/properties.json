@@ -1,0 +1,15 @@
+{
+	"category" : "PhysicalEtoys-CSV",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"stream",
+		"delimiter" ],
+	"name" : "CSVParser",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

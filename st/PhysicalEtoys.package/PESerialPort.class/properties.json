@@ -1,0 +1,15 @@
+{
+	"category" : "PhysicalEtoys-SerialPort",
+	"classinstvars" : [
+		"squeakSerialPort" ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "Richo 12/20/2011 12:41",
+	"instvars" : [
+		"baudRate",
+		"portNumber" ],
+	"name" : "PESerialPort",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

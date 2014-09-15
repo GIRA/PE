@@ -1,0 +1,3 @@
+*physicaletoys-compilersupport
+isUsingCompiledMode
+	^ false

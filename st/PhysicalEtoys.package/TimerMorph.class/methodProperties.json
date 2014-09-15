@@ -1,0 +1,24 @@
+{
+	"class" : {
+		"additionsToViewerCategories" : "Richo 3/5/2013 18:25",
+		"descriptionForPartsBin" : "Richo 3/5/2013 15:59",
+		"form" : "Richo 2/27/2013 19:42",
+		"initializeForm" : "Richo 2/27/2013 19:42" },
+	"instance" : {
+		"categoriesForViewer" : "Richo 2/27/2013 20:07",
+		"current" : "Richo 2/27/2013 19:11",
+		"drawOn:" : "Richo 2/27/2013 19:43",
+		"editButtonsScript" : "Richo 2/27/2013 19:55",
+		"extent:" : "Richo 2/28/2013 14:04",
+		"initialize" : "Richo 3/5/2013 18:27",
+		"interval" : "Richo 3/5/2013 18:27",
+		"interval:" : "Richo 3/5/2013 18:27",
+		"newPlayerInstance" : "Richo 2/27/2013 19:20",
+		"startCountdown" : "Richo 2/28/2013 13:52",
+		"startCountdownFrom:" : "Richo 3/5/2013 18:27",
+		"step" : "Richo 3/5/2013 18:27",
+		"stepTime" : "Richo 2/27/2013 19:50",
+		"stopCountdown" : "Richo 2/27/2013 19:26",
+		"trigger" : "Richo 2/27/2013 20:32",
+		"validCategories" : "Richo 2/27/2013 20:07",
+		"wantsScriptorHaloHandle" : "Richo 2/27/2013 18:46" } }

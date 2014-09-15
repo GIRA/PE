@@ -1,0 +1,21 @@
+{
+	"category" : "PhysicalEtoys-Skeleton-Base",
+	"classinstvars" : [
+		"map",
+		"default" ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "tak 12/20/2003 21:43",
+	"instvars" : [
+		"basic",
+		"base",
+		"label",
+		"selected",
+		"borderStyle",
+		"selectedBorderStyle",
+		"plug" ],
+	"name" : "SkColorSet",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

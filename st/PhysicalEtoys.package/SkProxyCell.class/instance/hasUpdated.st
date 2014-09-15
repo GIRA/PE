@@ -1,0 +1,3 @@
+testing
+hasUpdated
+	^ holderCell hasUpdated

@@ -1,0 +1,24 @@
+{
+	"class" : {
+		"at:" : "tak 1/25/2004 00:14",
+		"baseFor:" : "tak 12/21/2003 15:10",
+		"basicFor:" : "tak 1/11/2004 17:44",
+		"borderStyleFor:" : "tak 12/21/2003 18:40",
+		"for:color:" : "tak 1/19/2004 08:28",
+		"initialize" : "tak 3/30/2004 22:35",
+		"labelFor:" : "tak 12/20/2003 22:15",
+		"map" : "tak 1/25/2004 00:00",
+		"plugFor:" : "tak 12/22/2003 01:22",
+		"projectAt:ifAbsent:" : "tak 1/25/2004 00:12",
+		"reset" : "tak 3/30/2004 22:35",
+		"selectedBorderStyleFor:" : "tak 12/21/2003 18:47",
+		"selectedFor:" : "tak 12/21/2003 18:45" },
+	"instance" : {
+		"base" : "tak 12/20/2003 22:02",
+		"basic" : "tak 1/11/2004 17:43",
+		"basic:" : "tak 1/11/2004 17:30",
+		"borderStyle" : "tak 12/21/2003 18:38",
+		"label" : "tak 12/20/2003 22:02",
+		"plug" : "tak 12/22/2003 01:21",
+		"selected" : "tak 12/20/2003 22:02",
+		"selectedBorderStyle" : "tak 12/21/2003 18:52" } }

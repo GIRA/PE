@@ -1,0 +1,14 @@
+{
+	"category" : "PhysicalEtoys-Utilities",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "MusicalNoteTile",
+	"pools" : [
+		 ],
+	"super" : "SymbolListTile",
+	"type" : "normal" }

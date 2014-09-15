@@ -1,0 +1,13 @@
+{
+	"class" : {
+		"containingDirectory" : "Richo 7/22/2010 16:06",
+		"directoryIconForm" : "Richo 7/22/2010 14:00",
+		"fileIconForm" : "Richo 7/22/2010 14:00",
+		"on:" : "Richo 7/20/2010 12:21" },
+	"instance" : {
+		"entryName" : "Richo 7/22/2010 16:12",
+		"icon" : "Richo 7/22/2010 16:08",
+		"initialize" : "Richo 7/22/2010 16:02",
+		"initializeSubmorphs" : "Richo 7/22/2010 16:08",
+		"isDirectory" : "Richo 7/22/2010 16:08",
+		"setEntry:" : "Richo 7/20/2010 12:22" } }

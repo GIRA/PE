@@ -1,0 +1,14 @@
+{
+	"class" : {
+		"addClass:toChangeset:" : "tak 1/19/2004 23:24",
+		"initialize" : "kfr 10/17/2011 23:58",
+		"installMenu" : "tak 4/8/2004 22:37",
+		"installSound" : "tak 3/30/2004 22:11",
+		"installWorld" : "tak 3/30/2004 22:12",
+		"makeChangeSetForThisPackage" : "tak 1/19/2004 23:26",
+		"point" : "tak 4/2/2004 19:51",
+		"renameAllProtocol:to:" : "tak 3/30/2004 21:57",
+		"version" : "tak 4/8/2004 22:40" },
+	"instance" : {
+		"packageName" : "tak 3/30/2004 21:41",
+		"readmeText" : "tak 4/11/2004 01:19" } }

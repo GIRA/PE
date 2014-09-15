@@ -1,0 +1,22 @@
+{
+	"class" : {
+		"availablePorts" : "Richo 12/13/2011 16:31",
+		"availablePortsForNxt" : "Richo 3/23/2012 13:16",
+		"initialize" : "Richo 12/20/2011 11:47",
+		"reinstallSqueakSerialPort" : "Richo 12/20/2011 11:39",
+		"replaceSqueakSerialPort" : "Richo 12/20/2011 11:38",
+		"squeakSerialPort" : "Richo 5/24/2012 18:16",
+		"startUp" : "Richo 12/20/2011 11:46",
+		"updateVocabulary" : "Richo 12/13/2011 16:29",
+		"updateVocabularyForNxt" : "Richo 3/23/2012 13:15" },
+	"instance" : {
+		"baudRate" : "Richo 12/20/2011 12:37",
+		"baudRate:" : "Richo 12/20/2011 12:10",
+		"close" : "Richo 12/20/2011 12:15",
+		"initialize" : "Richo 12/20/2011 12:20",
+		"nextPutAll:" : "Richo 12/20/2011 12:16",
+		"openPort:" : "Richo 5/24/2012 18:24",
+		"openSqueakPort:" : "Richo 5/24/2012 18:30",
+		"plugin" : "Richo 12/20/2011 12:10",
+		"readByteArray" : "Richo 5/16/2012 17:37",
+		"readString" : "Richo 12/22/2011 16:09" } }

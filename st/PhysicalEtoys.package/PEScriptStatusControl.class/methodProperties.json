@@ -1,0 +1,9 @@
+{
+	"class" : {
+		"downloadButtonForm" : "Richo 8/5/2011 17:06" },
+	"instance" : {
+		"assurePauseTickControlsShow" : "Richo 1/11/2013 18:06",
+		"doAction" : "Richo 1/11/2013 18:17",
+		"initializeFor:" : "Richo 8/5/2011 16:51",
+		"mouseDownTick:onItem:" : "Richo 1/11/2013 18:18",
+		"mouseUpTick:onItem:" : "Richo 12/26/2012 16:55" } }

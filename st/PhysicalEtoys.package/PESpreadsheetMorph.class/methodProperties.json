@@ -1,0 +1,28 @@
+{
+	"class" : {
+		"descriptionForPartsBin" : "Richo 12/26/2012 17:50",
+		"new" : "Richo 9/5/2011 15:33",
+		"newStandAlone" : "Richo 9/5/2011 15:55",
+		"on:" : "Richo 9/5/2011 15:24" },
+	"instance" : {
+		"button:color:" : "Richo 5/6/2011 15:51",
+		"delete" : "Richo 5/4/2011 15:34",
+		"fileName" : "Richo 5/4/2011 16:16",
+		"inAColumn:" : "Richo 5/4/2011 13:31",
+		"inARow:" : "Richo 5/4/2011 13:31",
+		"initializeSpreadsheet" : "Richo 11/16/2012 15:23",
+		"initializeSubmorphs" : "Richo 11/16/2012 15:25",
+		"initializeWith:" : "Richo 11/16/2012 15:23",
+		"isPaused" : "Richo 5/4/2011 15:50",
+		"isRunning" : "Richo 5/4/2011 15:15",
+		"isStopped" : "Richo 5/4/2011 15:15",
+		"localeChanged" : "Richo 11/16/2012 15:25",
+		"maxRows" : "Richo 4/10/2012 15:20",
+		"pauseStepping" : "Richo 5/4/2011 15:16",
+		"print:" : "Richo 5/4/2011 15:16",
+		"spacer" : "Richo 9/5/2011 15:38",
+		"startStepping" : "Richo 9/5/2011 15:26",
+		"step" : "Richo 9/5/2011 15:24",
+		"stepTime" : "Richo 5/4/2011 15:56",
+		"stopStepping" : "Richo 9/5/2011 15:54",
+		"text:" : "Richo 5/4/2011 13:31" } }

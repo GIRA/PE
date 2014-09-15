@@ -1,0 +1,15 @@
+{
+	"class" : {
+		"initialize" : "Richo 3/14/2012 19:11",
+		"isEtoysProjectDirty:" : "Richo 12/26/2012 17:58",
+		"isPEProject:" : "Richo 1/2/2013 13:03",
+		"loadProjectNamed:on:" : "Richo 12/27/2012 20:22",
+		"loadProjectStream:" : "Richo 12/27/2012 20:24",
+		"openProjectNamed:on:" : "Richo 3/6/2012 18:00",
+		"openProjectStream:" : "Richo 3/8/2012 17:07",
+		"peProjectExtension" : "Richo 3/13/2012 17:52",
+		"root" : "Richo 12/26/2012 16:36",
+		"root:" : "Richo 12/26/2012 16:36",
+		"storeProjectNamed:in:" : "Richo 3/13/2012 17:53" },
+	"instance" : {
+		 } }

@@ -1,0 +1,14 @@
+{
+	"category" : "PhysicalEtoys-CompilerSupport",
+	"classinstvars" : [
+		"downloadButtonForm" ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "PEScriptStatusControl",
+	"pools" : [
+		 ],
+	"super" : "ScriptStatusControl",
+	"type" : "normal" }

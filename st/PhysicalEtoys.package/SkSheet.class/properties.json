@@ -1,0 +1,15 @@
+{
+	"category" : "PhysicalEtoys-Skeleton-Base",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "tak 4/2/2004 21:27",
+	"instvars" : [
+		"plan",
+		"dependMap" ],
+	"name" : "SkSheet",
+	"pools" : [
+		 ],
+	"super" : "SkMap",
+	"type" : "normal" }

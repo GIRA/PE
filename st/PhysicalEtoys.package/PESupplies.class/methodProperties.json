@@ -1,0 +1,14 @@
+{
+	"class" : {
+		"makeFlap" : "Richo 12/26/2012 17:08" },
+	"instance" : {
+		"initialize" : "Richo 4/4/2012 15:56",
+		"initializeWithTabs:" : "Richo 4/8/2011 14:05",
+		"installQuads:fromButton:" : "Richo 4/8/2011 14:01",
+		"localeChanged" : "Richo 12/26/2012 17:09",
+		"paneForTabs:" : "Richo 4/8/2011 14:05",
+		"partsBin" : "Richo 4/8/2011 13:51",
+		"showCategory:fromButton:" : "Richo 4/8/2011 14:11",
+		"tabsForCategories" : "Richo 4/11/2012 14:57",
+		"tabsForCategoriesOld" : "Richo 12/26/2012 17:28",
+		"tabsPane" : "Richo 4/8/2011 13:52" } }

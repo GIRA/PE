@@ -1,0 +1,13 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"buildKeyboard" : "Richo 1/18/2013 17:22",
+		"delete" : "Richo 1/18/2013 16:59",
+		"handleListenEvent:" : "Richo 1/18/2013 17:07",
+		"initialize" : "Richo 1/18/2013 16:59",
+		"keepInsideWorld" : "Richo 1/18/2013 17:15",
+		"mouseEnterPitch:event:noteMorph:" : "Richo 1/18/2013 19:22",
+		"mouseLeavePitch:event:noteMorph:" : "Richo 1/18/2013 19:22",
+		"mouseUpPitch:event:noteMorph:" : "Richo 1/18/2013 17:17",
+		"noteNameFor:" : "Richo 1/18/2013 16:52" } }

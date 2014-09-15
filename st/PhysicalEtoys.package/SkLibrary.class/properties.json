@@ -1,0 +1,15 @@
+{
+	"category" : "PhysicalEtoys-Skeleton-Base",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"args",
+		"direction" ],
+	"name" : "SkLibrary",
+	"pools" : [
+		 ],
+	"super" : "SkObject",
+	"type" : "normal" }

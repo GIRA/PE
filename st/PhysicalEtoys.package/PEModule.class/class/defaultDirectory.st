@@ -1,0 +1,3 @@
+constants
+defaultDirectory
+	^ FileDirectory default containingDirectory

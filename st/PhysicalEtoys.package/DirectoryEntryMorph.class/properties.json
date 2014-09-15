@@ -1,0 +1,15 @@
+{
+	"category" : "PhysicalEtoys-FileList",
+	"classinstvars" : [
+		"directoryIconForm",
+		"fileIconForm" ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"entry" ],
+	"name" : "DirectoryEntryMorph",
+	"pools" : [
+		 ],
+	"super" : "Morph",
+	"type" : "normal" }

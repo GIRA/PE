@@ -1,0 +1,14 @@
+{
+	"category" : "PhysicalEtoys-FileList",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "FileListPlayer",
+	"pools" : [
+		 ],
+	"super" : "Player",
+	"type" : "normal" }

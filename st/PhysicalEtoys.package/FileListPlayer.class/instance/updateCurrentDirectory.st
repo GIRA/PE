@@ -1,0 +1,3 @@
+commands
+updateCurrentDirectory
+self costume renderedMorph updateCurrentDirectory

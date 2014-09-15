@@ -1,0 +1,14 @@
+{
+	"category" : "PhysicalEtoys-Installer",
+	"classinstvars" : [
+		"installedModules" ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "PEInstaller",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

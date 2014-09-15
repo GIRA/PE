@@ -1,0 +1,14 @@
+{
+	"class" : {
+		"on:delimiter:" : "Richo 10/24/2011 01:07",
+		"parseString:" : "Richo 10/22/2011 19:07",
+		"parseString:delimiter:" : "Richo 10/24/2011 01:08",
+		"parse:" : "Richo 10/24/2011 01:07",
+		"parse:delimiter:" : "Richo 10/24/2011 01:07" },
+	"instance" : {
+		"initializeWith:delimiter:" : "Richo 10/24/2011 01:08",
+		"nextCell" : "Richo 10/24/2011 00:48",
+		"nextEnclosedCell" : "Richo 10/24/2011 10:13",
+		"nextNormalCell" : "Richo 10/24/2011 09:53",
+		"nextRow" : "Richo 10/24/2011 01:09",
+		"parse" : "Richo 10/24/2011 01:22" } }

@@ -1,0 +1,14 @@
+{
+	"category" : "PhysicalEtoys-Skeleton-Base",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "SkCellInspector",
+	"pools" : [
+		 ],
+	"super" : "ContextVariablesInspector",
+	"type" : "normal" }
