@@ -1,0 +1,14 @@
+{
+	"category" : "Arduino-Core",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "Richo 3/9/2010 10:34",
+	"instvars" : [
+		 ],
+	"name" : "ArduinoProtocol",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

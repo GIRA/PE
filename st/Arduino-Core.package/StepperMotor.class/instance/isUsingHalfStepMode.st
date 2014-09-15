@@ -1,0 +1,3 @@
+accessing
+isUsingHalfStepMode
+	^ stepMode = #waveDriveMode

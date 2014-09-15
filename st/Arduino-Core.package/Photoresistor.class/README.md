@@ -1,0 +1,1 @@
+I represent an LDR (analog input device)

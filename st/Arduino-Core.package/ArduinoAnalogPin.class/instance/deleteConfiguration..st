@@ -1,0 +1,3 @@
+configuring devices
+deleteConfiguration: aDevice
+	aDevice deleteConfigurationAnalog: self

@@ -1,0 +1,15 @@
+{
+	"category" : "Arduino-Core-Devices",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "<historical>",
+	"instvars" : [
+		"pins",
+		"isConfigured" ],
+	"name" : "AttachableDevice",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

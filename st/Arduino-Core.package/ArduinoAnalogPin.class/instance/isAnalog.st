@@ -1,0 +1,3 @@
+testing
+isAnalog
+	^ true

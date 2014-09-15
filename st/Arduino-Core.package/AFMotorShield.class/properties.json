@@ -1,0 +1,14 @@
+{
+	"category" : "Arduino-Core-AFMotorShield",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"motorPins" ],
+	"name" : "AFMotorShield",
+	"pools" : [
+		 ],
+	"super" : "Arduino",
+	"type" : "normal" }

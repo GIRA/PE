@@ -1,0 +1,3 @@
+servos
+detachServoFromPin: pinNumber
+self subclassResponsibility

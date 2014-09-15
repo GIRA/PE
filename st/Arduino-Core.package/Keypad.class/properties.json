@@ -1,0 +1,15 @@
+{
+	"category" : "Arduino-Core-Devices",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"buttons",
+		"steppingProcess" ],
+	"name" : "Keypad",
+	"pools" : [
+		 ],
+	"super" : "AttachableDevice",
+	"type" : "normal" }

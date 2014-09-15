@@ -1,0 +1,24 @@
+{
+	"class" : {
+		"allFriendlyNames" : "Richo 1/31/2011 09:55",
+		"at:" : "Richo 1/31/2011 09:46",
+		"default" : "Richo 11/23/2012 12:21",
+		"friendlyNames:fCpu:mcu:uploadRate:firmataRate:" : "Richo 9/15/2011 17:48",
+		"friendlyNames:fCpu:mcu:uploadRate:firmataRate:analogPins:digitalPins:" : "BernatRomagosa 12/31/2013 09:36",
+		"friendlyNames:fCpu:mcu:uploadRate:firmataRate:avrdudeProgrammer:" : "Richo 9/15/2011 17:48",
+		"friendlyNames:fCpu:mcu:uploadRate:firmataRate:avrdudeProgrammer:analogPins:digitalPins:" : "BernatRomagosa 12/31/2013 09:31",
+		"initialize" : "BernatRomagosa 12/31/2013 11:21",
+		"types" : "Richo 11/23/2012 12:32",
+		"withFriendlyName:" : "Richo 4/6/2011 10:43" },
+	"instance" : {
+		"analogPins" : "BernatRomagosa 12/31/2013 09:47",
+		"avrdudeProgrammer" : "Richo 9/15/2011 17:47",
+		"digitalPins" : "BernatRomagosa 12/31/2013 09:47",
+		"fCpu" : "Richo 1/31/2011 09:31",
+		"firmataRate" : "Richo 1/31/2011 09:31",
+		"friendlyNames" : "Richo 1/31/2011 09:31",
+		"id" : "Richo 11/23/2012 12:32",
+		"initializeWithFriendlyNames:fCpu:mcu:uploadRate:firmataRate:avrdudeProgrammer:" : "Richo 9/15/2011 17:48",
+		"initializeWithFriendlyNames:fCpu:mcu:uploadRate:firmataRate:avrdudeProgrammer:analogPins:digitalPins:" : "BernatRomagosa 12/31/2013 09:33",
+		"mcu" : "Richo 1/31/2011 09:31",
+		"uploadRate" : "Richo 1/31/2011 09:31" } }

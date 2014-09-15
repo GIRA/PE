@@ -1,0 +1,3 @@
+actions
+setWaveDriveMode
+	stepMode := #waveDriveMode

@@ -1,0 +1,1 @@
+I represent an Arduino analog pin. Analog pins are always input. Before I can access my value, I must be activated by sending #activate.

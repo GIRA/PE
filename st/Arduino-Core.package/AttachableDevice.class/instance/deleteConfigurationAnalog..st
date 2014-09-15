@@ -1,0 +1,3 @@
+configuring
+deleteConfigurationAnalog: anAnalogPin
+	self subclassResponsibility 

@@ -1,0 +1,17 @@
+{
+	"category" : "Arduino-Core-AFMotorShield",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"state",
+		"direction",
+		"speed",
+		"previousState" ],
+	"name" : "AFMotorPin",
+	"pools" : [
+		 ],
+	"super" : "ArduinoPin",
+	"type" : "normal" }

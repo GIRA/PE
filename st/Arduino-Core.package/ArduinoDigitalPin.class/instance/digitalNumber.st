@@ -1,0 +1,3 @@
+accessing
+digitalNumber
+	^ self number

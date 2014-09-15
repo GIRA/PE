@@ -1,0 +1,3 @@
+actions
+goForward
+	isGoingForward := true

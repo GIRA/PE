@@ -1,0 +1,3 @@
+configuring
+deleteConfigurationDigital: aPin
+	aPin setOutput

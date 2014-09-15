@@ -1,0 +1,18 @@
+{
+	"category" : "Arduino-Core-Devices",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"steppingProcess",
+		"stepTime",
+		"stepMode",
+		"isGoingForward",
+		"currentStep" ],
+	"name" : "StepperMotor",
+	"pools" : [
+		 ],
+	"super" : "AttachableDevice",
+	"type" : "normal" }

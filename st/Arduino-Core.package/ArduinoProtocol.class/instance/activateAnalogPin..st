@@ -1,0 +1,3 @@
+analog pins
+activateAnalogPin: pinNumber
+self subclassResponsibility

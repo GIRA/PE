@@ -1,0 +1,3 @@
+converting
+asCommand: byte
+	^ byte

@@ -1,0 +1,14 @@
+{
+	"category" : "Arduino-Core-AFMotorShield",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"mode" ],
+	"name" : "AFMotor",
+	"pools" : [
+		 ],
+	"super" : "AttachableDevice",
+	"type" : "normal" }

@@ -1,0 +1,14 @@
+{
+	"category" : "Arduino-Core-PinMode",
+	"classinstvars" : [
+		"uniqueInstance" ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "Richo 9/15/2009 12:15",
+	"instvars" : [
+		 ],
+	"name" : "PinMode",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

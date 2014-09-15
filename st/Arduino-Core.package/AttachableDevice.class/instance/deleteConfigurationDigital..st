@@ -1,0 +1,3 @@
+configuring
+deleteConfigurationDigital: aDigitalPin
+	self subclassResponsibility 

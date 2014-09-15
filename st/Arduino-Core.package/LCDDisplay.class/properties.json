@@ -1,0 +1,17 @@
+{
+	"category" : "Arduino-Core-Devices",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"protocol",
+		"width",
+		"length",
+		"text" ],
+	"name" : "LCDDisplay",
+	"pools" : [
+		 ],
+	"super" : "AttachableDevice",
+	"type" : "normal" }

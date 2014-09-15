@@ -1,0 +1,14 @@
+{
+	"category" : "Arduino-Core-Firmata",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "Richo 9/15/2009 12:00",
+	"instvars" : [
+		 ],
+	"name" : "FirmataConstants",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

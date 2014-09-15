@@ -1,0 +1,1 @@
+I represent an Arduino digital pin. Digital pins can be input or output. To change my mode you must send #mode: with a PinMode as a parameter or you can use #setInput/#setOutput.

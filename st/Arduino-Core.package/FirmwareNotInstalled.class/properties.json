@@ -1,0 +1,14 @@
+{
+	"category" : "Arduino-Core-Firmware",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "FirmwareNotInstalled",
+	"pools" : [
+		 ],
+	"super" : "Error",
+	"type" : "normal" }

@@ -1,0 +1,18 @@
+{
+	"category" : "Arduino-Core",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "<historical>",
+	"instvars" : [
+		"protocol",
+		"digitalPins",
+		"analogPins",
+		"keepAliveProcess",
+		"type" ],
+	"name" : "Arduino",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

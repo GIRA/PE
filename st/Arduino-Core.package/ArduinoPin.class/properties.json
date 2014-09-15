@@ -1,0 +1,17 @@
+{
+	"category" : "Arduino-Core",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "Richo 9/15/2009 11:49",
+	"instvars" : [
+		"number",
+		"mode",
+		"value",
+		"arduino" ],
+	"name" : "ArduinoPin",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

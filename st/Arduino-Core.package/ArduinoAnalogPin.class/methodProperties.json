@@ -1,0 +1,16 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"activate" : "Richo 8/31/2011 15:29",
+		"configure:" : "Richo 9/6/2011 11:50",
+		"deactivate" : "Richo 8/31/2011 15:29",
+		"deleteConfiguration:" : "Richo 9/6/2011 11:56",
+		"digitalNumber" : "SGB 5/31/2013 16:27",
+		"initialize" : "Richo 9/7/2011 10:54",
+		"isActive" : "Richo 8/31/2009 15:24",
+		"isAnalog" : "Richo 9/6/2011 12:14",
+		"refresh" : "Richo 10/24/2011 14:01",
+		"refreshMode" : "Richo 10/25/2011 16:10",
+		"refreshValue" : "Richo 10/25/2011 16:10",
+		"value" : "pe 2.0 2/25/2014 16:57" } }

@@ -1,0 +1,13 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"brake" : "Richo 6/27/2011 17:53",
+		"configureDigital:" : "Richo 9/6/2011 12:00",
+		"d0Pin" : "Richo 6/27/2011 15:26",
+		"d1Pin" : "Richo 6/27/2011 15:26",
+		"deleteConfigurationDigital:" : "Richo 9/6/2011 12:01",
+		"enablePin" : "Richo 6/27/2011 15:26",
+		"initialize" : "Richo 6/27/2011 15:33",
+		"speed" : "Richo 6/27/2011 15:33",
+		"speed:" : "Richo 6/27/2011 17:52" } }

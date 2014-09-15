@@ -1,0 +1,3 @@
+mode
+refreshMode
+	self subclassResponsibility 

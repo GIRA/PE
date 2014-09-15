@@ -1,0 +1,1 @@
+I represent a Potentiometer (analog input device).

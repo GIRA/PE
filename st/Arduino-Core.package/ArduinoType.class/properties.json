@@ -1,0 +1,21 @@
+{
+	"category" : "Arduino-Core",
+	"classinstvars" : [
+		"types" ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"fCpu",
+		"friendlyNames",
+		"mcu",
+		"uploadRate",
+		"firmataRate",
+		"programmer",
+		"analogPins",
+		"digitalPins" ],
+	"name" : "ArduinoType",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

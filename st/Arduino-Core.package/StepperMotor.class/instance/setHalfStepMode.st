@@ -1,0 +1,3 @@
+actions
+setHalfStepMode
+	stepMode := #halfStepMode

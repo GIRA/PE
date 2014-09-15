@@ -1,0 +1,3 @@
+configuring
+configureAnalog: anAnalogPin
+	self subclassResponsibility 

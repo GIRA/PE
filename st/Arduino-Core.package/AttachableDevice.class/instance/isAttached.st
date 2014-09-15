@@ -1,0 +1,3 @@
+attaching
+isAttached
+	^pins notNil

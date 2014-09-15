@@ -1,0 +1,14 @@
+{
+	"category" : "Arduino-Core-Devices",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "Richo 9/15/2009 12:07",
+	"instvars" : [
+		 ],
+	"name" : "EButton",
+	"pools" : [
+		 ],
+	"super" : "AttachableDevice",
+	"type" : "normal" }

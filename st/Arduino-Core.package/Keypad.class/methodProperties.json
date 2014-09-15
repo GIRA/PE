@@ -1,0 +1,18 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"atRow:column:" : "Richo 6/1/2010 15:13",
+		"at:at:" : "Richo 6/1/2010 15:13",
+		"columnPins" : "Richo 5/31/2010 18:18",
+		"configureDigital:" : "Richo 9/6/2011 12:07",
+		"deleteConfigurationDigital:" : "Richo 9/6/2011 12:08",
+		"finalize" : "Richo 6/8/2010 15:35",
+		"initialize" : "Richo 6/8/2010 17:28",
+		"rowPins" : "Richo 5/31/2010 18:00",
+		"rowPins:columnsPins:on:" : "Richo 5/31/2010 18:04",
+		"setPins:" : "Richo 9/6/2011 12:07",
+		"startSteppingProcess" : "Richo 6/8/2010 17:25",
+		"step" : "Richo 5/31/2010 18:27",
+		"stepTime" : "Richo 5/31/2010 17:59",
+		"stopSteppingProcess" : "Richo 5/31/2010 17:59" } }

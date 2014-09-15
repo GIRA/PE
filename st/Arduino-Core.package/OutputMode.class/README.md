@@ -1,0 +1,1 @@
+I represent the output mode of an Arduino digital pin.

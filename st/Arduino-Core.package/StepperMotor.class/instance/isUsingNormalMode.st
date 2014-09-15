@@ -1,0 +1,3 @@
+accessing
+isUsingNormalMode
+	^ stepMode = #normalMode

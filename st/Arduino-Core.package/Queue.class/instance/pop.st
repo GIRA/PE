@@ -1,0 +1,3 @@
+accessing
+pop
+	^ list removeFirst

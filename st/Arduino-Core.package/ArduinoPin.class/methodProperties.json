@@ -1,0 +1,23 @@
+{
+	"class" : {
+		"new" : "Richo 9/7/2011 11:02",
+		"on:number:" : "Richo 10/24/2011 14:00" },
+	"instance" : {
+		"configure:" : "Richo 9/6/2011 11:49",
+		"deleteConfiguration:" : "Richo 9/6/2011 11:55",
+		"digitalNumber" : "SGB 5/31/2013 16:26",
+		"initializeWith:number:" : "Richo 10/24/2011 14:01",
+		"isAnalog" : "Richo 9/6/2011 12:13",
+		"isDigital" : "Richo 9/6/2011 12:13",
+		"mode" : "Richo 9/7/2011 10:52",
+		"mode:" : "Richo 9/7/2011 10:52",
+		"number" : "Richo 8/24/2009 16:51",
+		"printOn:" : "Richo 8/19/2009 14:18",
+		"protocol" : "Richo 10/24/2011 14:02",
+		"refresh" : "Richo 9/7/2011 10:59",
+		"refreshMode" : "Richo 9/7/2011 10:53",
+		"refreshValue" : "Richo 9/7/2011 10:55",
+		"setInput" : "Richo 9/7/2011 10:53",
+		"setOutput" : "Richo 9/7/2011 10:53",
+		"value" : "pe 2.0 2/25/2014 16:56",
+		"value:" : "Richo 12/29/2011 17:35" } }

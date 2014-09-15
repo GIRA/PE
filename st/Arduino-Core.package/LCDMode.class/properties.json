@@ -1,0 +1,14 @@
+{
+	"category" : "Arduino-Core-PinMode",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"lcd" ],
+	"name" : "LCDMode",
+	"pools" : [
+		 ],
+	"super" : "OutputMode",
+	"type" : "normal" }

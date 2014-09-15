@@ -1,0 +1,27 @@
+{
+	"category" : "Arduino-Core-Firmata",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "Richo 3/9/2010 11:03",
+	"instvars" : [
+		"port",
+		"analogInputData",
+		"digitalInputData",
+		"digitalOutputData",
+		"parsingSysex",
+		"storedInputData",
+		"sysexBytesRead",
+		"waitForData",
+		"executeMultiByteCommand",
+		"multiByteChannel",
+		"majorVersion",
+		"minorVersion",
+		"steppingProcess",
+		"boardType" ],
+	"name" : "Firmata",
+	"pools" : [
+		 ],
+	"super" : "ArduinoProtocol",
+	"type" : "normal" }

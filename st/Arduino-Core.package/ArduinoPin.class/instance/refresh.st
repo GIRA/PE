@@ -1,0 +1,3 @@
+initializing
+refresh
+	self subclassResponsibility

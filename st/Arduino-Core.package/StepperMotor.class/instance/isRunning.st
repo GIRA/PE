@@ -1,0 +1,3 @@
+accessing
+isRunning
+	^ steppingProcess notNil

@@ -1,0 +1,23 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"attachAnalogPins:on:" : "Richo 6/1/2010 15:08",
+		"attachDigitalPins:on:" : "Richo 6/1/2010 15:08",
+		"attachOnPins:" : "SGB 5/31/2013 16:18",
+		"attach:" : "Richo 6/1/2010 14:20",
+		"configure" : "Richo 9/6/2011 11:54",
+		"configureAnalog:" : "Richo 9/6/2011 11:56",
+		"configureDigital:" : "Richo 9/6/2011 11:56",
+		"controlAttaching" : "Richo 9/8/2009 12:52",
+		"deleteConfiguration" : "Richo 9/6/2011 11:55",
+		"deleteConfigurationAnalog:" : "Richo 9/6/2011 12:01",
+		"deleteConfigurationDigital:" : "Richo 9/6/2011 12:02",
+		"detach" : "Richo 6/1/2010 14:21",
+		"isAttached" : "Richo 8/15/2011 10:14",
+		"isAttachedToArduino:" : "Richo 8/15/2011 16:20",
+		"isAttachedToPin:" : "Richo 8/15/2011 16:20",
+		"isAttachedTo:" : "Richo 8/15/2011 10:13",
+		"reconfigureIfNecessary" : "Richo 6/1/2010 14:21",
+		"setPins:" : "Richo 6/1/2010 14:21",
+		"unattachedError" : "Richo 4/6/2011 10:40" } }

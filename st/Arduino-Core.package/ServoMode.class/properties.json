@@ -1,0 +1,14 @@
+{
+	"category" : "Arduino-Core-PinMode",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "Richo 9/15/2009 12:13",
+	"instvars" : [
+		 ],
+	"name" : "ServoMode",
+	"pools" : [
+		 ],
+	"super" : "PwmMode",
+	"type" : "normal" }

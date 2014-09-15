@@ -1,0 +1,1 @@
+Abstract class. I define the protocol to communicate with an Arduino board.

@@ -1,0 +1,1 @@
+I represent the servo mode of an Arduino digital pin.

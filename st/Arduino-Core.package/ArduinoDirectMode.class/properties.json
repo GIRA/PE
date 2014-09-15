@@ -1,0 +1,19 @@
+{
+	"category" : "Arduino-Core-Firmware",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"port",
+		"steppingProcess",
+		"digitalPins",
+		"analogPins",
+		"argsToRead",
+		"queue" ],
+	"name" : "ArduinoDirectMode",
+	"pools" : [
+		 ],
+	"super" : "ArduinoProtocol",
+	"type" : "normal" }

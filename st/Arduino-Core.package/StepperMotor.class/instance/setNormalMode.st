@@ -1,0 +1,3 @@
+actions
+setNormalMode
+	stepMode := #normalMode

@@ -1,0 +1,1 @@
+I represent the pwm mode of an Arduino digital pin.

@@ -1,0 +1,7 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"initialize" : "Richo 4/8/2013 17:28",
+		"motorPin:" : "Richo 4/9/2013 16:03",
+		"reconfigurePins" : "Richo 4/9/2013 16:03" } }

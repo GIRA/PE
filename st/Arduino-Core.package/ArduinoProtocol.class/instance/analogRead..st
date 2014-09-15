@@ -1,0 +1,3 @@
+analog pins
+analogRead: pinNumber
+self subclassResponsibility

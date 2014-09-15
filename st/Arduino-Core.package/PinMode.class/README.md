@@ -1,0 +1,1 @@
+Abstract class. I represent the mode of an Arduino digital pin. Tipically, I would just need input/output mode, other subclasses were made for practical purposes (i.e. ButtonMode, LedMode).

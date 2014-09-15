@@ -1,0 +1,14 @@
+{
+	"category" : "Arduino-Core-PinMode",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "<historical>",
+	"instvars" : [
+		 ],
+	"name" : "PwmMode",
+	"pools" : [
+		 ],
+	"super" : "OutputMode",
+	"type" : "normal" }
