@@ -1,0 +1,14 @@
+{
+	"category" : "DuinoBot-Compiler-Sketches",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "DuinoBotSketch",
+	"pools" : [
+		 ],
+	"super" : "ArduinoSketch",
+	"type" : "normal" }

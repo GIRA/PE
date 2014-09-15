@@ -1,0 +1,14 @@
+{
+	"category" : "DuinoBot-Compiler-Sketches",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"ledPin" ],
+	"name" : "DuinoBotBlinkSketch",
+	"pools" : [
+		 ],
+	"super" : "DuinoBotSketch",
+	"type" : "normal" }

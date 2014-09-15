@@ -1,0 +1,16 @@
+{
+	"category" : "DuinoBot-Compiler-Sketches",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"buttonPin",
+		"ledPin",
+		"buttonState" ],
+	"name" : "DuinoBotButtonSketch",
+	"pools" : [
+		 ],
+	"super" : "DuinoBotSketch",
+	"type" : "normal" }

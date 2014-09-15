@@ -1,0 +1,17 @@
+{
+	"category" : "DuinoBot-Compiler-Sketches",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"ledPin",
+		"ledState",
+		"previousMillis",
+		"interval" ],
+	"name" : "DuinoBotBlinkWithoutDelaySketch",
+	"pools" : [
+		 ],
+	"super" : "DuinoBotSketch",
+	"type" : "normal" }

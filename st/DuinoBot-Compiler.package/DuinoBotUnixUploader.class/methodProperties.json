@@ -1,0 +1,8 @@
+{
+	"class" : {
+		"makefileHID" : "Richo 11/23/2012 13:45",
+		"platformName" : "Richo 11/23/2012 13:40" },
+	"instance" : {
+		"changeCurrentDirectoryOf:to:" : "Richo 11/23/2012 13:43",
+		"executeCompileFor:" : "Richo 11/23/2012 13:43",
+		"executeUploadFor:onPort:uploadRate:mcu:fCpu:avrdudeProgrammer:" : "Richo 11/23/2012 13:43" } }

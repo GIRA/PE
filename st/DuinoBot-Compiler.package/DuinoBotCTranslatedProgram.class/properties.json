@@ -1,0 +1,14 @@
+{
+	"category" : "DuinoBot-Compiler-Output",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "DuinoBotCTranslatedProgram",
+	"pools" : [
+		 ],
+	"super" : "ArduinoCTranslatedProgram",
+	"type" : "normal" }

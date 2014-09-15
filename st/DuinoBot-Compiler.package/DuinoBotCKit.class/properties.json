@@ -1,0 +1,14 @@
+{
+	"category" : "DuinoBot-Compiler-Translators",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "DuinoBotCKit",
+	"pools" : [
+		 ],
+	"super" : "ArduinoCKit",
+	"type" : "normal" }

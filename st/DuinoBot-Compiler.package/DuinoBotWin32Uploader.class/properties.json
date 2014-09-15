@@ -1,0 +1,14 @@
+{
+	"category" : "DuinoBot-Compiler-Uploading",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "DuinoBotWin32Uploader",
+	"pools" : [
+		 ],
+	"super" : "DuinoBotUploader",
+	"type" : "normal" }
