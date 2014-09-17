@@ -1,8 +1,8 @@
 form
-initializeForm
+initializeRobotForm
 	^ (((FileDirectory default
 		directoryNamed: 'imgs')
 		directoryNamed: 'DuinoBot-Etoys')
 		directoryNamed: 'DuinoBotMorph')
-		fileNamed: 'form.png' do: [:file |
-			form := PNGReadWriter formFromStream: file]
+		fileNamed: 'robotForm.png' do: [:file |
+			robotForm := PNGReadWriter formFromStream: file]

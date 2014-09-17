@@ -1,13 +1,8 @@
 form
 initializeForm
-"form := nil"
-^form := PEUtilities formFromEncodedPNG:  'iVBORw0KGgoAAAANSUhEUgAAACEAAAAxCAYAAABUMsD0AAAABHNCSVQFBQUBSsjp7wAAAa9J
-REFUeF7lliGPhDAQhfuzkEgkEolEIpFIJBKJRCKRSCQSiUQiz/Xymp1L79IC7ZblkjZ5gewO
-M1+mM9My07WuK+/7ntd1zcuyFMI7fsN/7M61LAsvioLHcXwoQMHWOUDbtr+CNE1zCtR1nTsQ
-pFp2niQJT9NUPM+ygm+dZsBWb2UE+/ouAMm6RrD3riBQP8ymDV0BQFEUmWcDPe8SIgxD0VFG
-EFVVOYfI89wM4spQMoVAWxtBgNolRBAEYq481hkEkWXZczWBzgCEcU3cAYHsXgbYtk0Ukes5
-AcH3I0Up61KHDMNwGwAJg9B6PlBKSWfptz5HVFuBQYPC0gn/62xUMIddsu87R1fIIKDGYUbb
-dAQjC4MJ3+BbeebAN2IglhJinmdhACE4nqqDDcWlC46BhOCq4QeRf+2JOo7jj9Eh7Str0zSJ
-gBDez+xl34ilPb7JyMndUDEASapsiYW7IBkZn/0XL8zkX9umd0PAJ/nXXn7/BQSu9/5D+A/h
-P4T/EP5DXIG4e/kPId+s/kpp/MUYhz4BoAVxDXEGoAR5DIIC6+QPhP818QkIqxZ9alh9A2Xu
-OS0/zY37AAAAAElFTkSuQmCC'
+	^ (((FileDirectory default
+		directoryNamed: 'imgs')
+		directoryNamed: 'Arduino-Etoys')
+		directoryNamed: 'ThermistorMorph')
+		fileNamed: 'form.png' do: [:file |
+			form := PNGReadWriter formFromStream: file]

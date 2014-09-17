@@ -1,19 +1,8 @@
-as yet unclassified
+form
 initializeForm
-"
-	form := nil.
-"
-^form := PEUtilities formFromEncodedPNG:  'iVBORw0KGgoAAAANSUhEUgAAAI0AAAB6CAYAAACCydAEAAAABHNCSVQFBQUBSsjp7wAAAppJ
-REFUeF7l3a2Og0AARlFk5T4yj4BEIpFIJLISySNUVq6bzRrCsmkK24WZ6bnJJydpk5MS0r8i
-l9q2DamsKC4/tv2cn4/GR+Oj8dH4aHw0Phofjd+LaPq+D8MwRNkazfZzftHQxATjo/HR+GgE
-NF3XRQXjo8kQTexXGR+Nj8ZH46Px0fj5aPx8NH4+Gh+Nj8ZH46Px0fhofDR+Pho/H83zTdM0
-736/Z7XlY/fRnIjmEaAcNo7jPB/NiWiappkX+zns3XUxH42PxkeTMpqqqual9PHV/R939dH4
-d0/+3ZOPxs9H4+ej8fPR+Gh8ND4aH42Pxkfjo/Hz0fj5aHw0PhofjY/GR4Oi8b/L7eej8Tse
-jf9TI34+Gr9z0CwvVTG2RrP9nF90NP4PNfr5aPx8ND4aH42Pxkfjo/HR+Gj8fDR+PhofjY/G
-R+Oj8dH4aHw0fj4aPx+Nn4/GR+Oj8dH4aHw0PhofjZ+Pxs9H46Px0fhofDQ+Gh+NjyafLuHs
-+WgyrbsO4Xs+Gh/NLjA+Gh+Nj8ZHc0xlXwX/8uSj8dH4aHw0PhofjY/GR+Oj8dH4aHw0Phof
-jY/GR+Oj8dH4aHw0PhofjY/GR+Oj8dH4aHw0PhofjY/GR+Oj8dH4aHw0PhofjY/GR+Oj8dH4
-aHw0PhofjY/GR+Oj8dH4aHw0PhofjY/GR+Oj8dH4aHw0PhofjY/GR+Oj8dH4aHw0Fpqp/gjP
-5qPx0fxC83krH85H46Px0fhofDQ+Gh+Nj8ZH46Px0fhofDQ+Gh+Nj8ZH46Px0fhofDQ+Gh+N
-/96T/96Tj+a/8/+FxUfzEhwfjY/mD/lofDQZ5KNJo6zy0fj5aPyOryzLkMrWaLaf8/PR+Gh8
-ND6aN6uu6pDK1mi2n3uPvgAOPmpRRKe/+QAAAABJRU5ErkJggg=='
+	^ (((FileDirectory default
+		directoryNamed: 'imgs')
+		directoryNamed: 'DuinoBot-Etoys')
+		directoryNamed: 'RGMotorMorph')
+		fileNamed: 'form.png' do: [:file |
+			form := PNGReadWriter formFromStream: file]

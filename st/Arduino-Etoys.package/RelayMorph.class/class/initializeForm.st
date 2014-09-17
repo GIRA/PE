@@ -1,24 +1,8 @@
 form
 initializeForm
-"
-	form := nil.
-"
-^form := PEUtilities formFromEncodedPNG:  'iVBORw0KGgoAAAANSUhEUgAAADMAAABRCAYAAAB/nZ57AAAABHNCSVQFBQUBSsjp7wAAA5JJ
-REFUeF7lmz+XgyAMwPsxOjoyMjI6Ojo6Ojo6Ojo6dnR07Nhv6BFLehSRAhYPj76XR+1FyI8/
-IcHzMgzDPAhhjJ1K+r5f7Iaybdv5MkgwdV07S1EUMyFkl1BK56qqnNuWbQeg3TAgYMgeGN92
-VzDTNM1d181N03gZAiMDFUPv+tyPI+JzL9gMtgMDyAU+eZ7v7lm1Dlu4egcMSFmWTwj8fAPm
-zrJF4Bp6C+TBr1uaae/JucDfm1hhHkJ6biDCPJgepqQngZlyusDcc3JumIk+y2WqlcW5YRoJ
-BjYy+F6cEWbgIFQsbNkJUM09LFYHABVCePFyy1zapl5gbO4FiQZmazO1gdkrh8DgfhOq7j+B
-2bMenGH2xmafYEJOtVVsJkeeOcm0Qj0bA9e8FwZceL0hxhSgza5G8ZkCvjDouk2ygpGzta2K
-ISgEmMYRCNw1wMhu21bQYGbQWWWatg6g9hwdgPFJ3gCkooG8WZVl3jDQa05ptIApSIQwrusm
-WhjYZ/7FyEBD8gGEbQwWHQx4MDzoQIFrG88WHQx4MGhIhoFrG88WHQwaLsMg4OlgcFpBKgDf
-Xc7XonQACIRie5YWrWvGteJy4hktDHgvnGpRwnQiLejFaWUvDjK6JWXgeQYva/I0puN/K3n9
-g0G34lJyackzsAwO00iBJjQ0iiOlQZQ3Ud7pdRWqT4oulvi7qsuODDR1ht7IE2IU5WQBddvQ
-fY1MKJhSgjH1vgsU6qpQwaeZDIOG6qGuWkNNuqPSAYfCDErjd83cHxUolw5goadZQSRvll2N
-c142emsq6XQRuKCBYXIJplVgcBQeTiO0rVuHhmECgmpgbgYDfdYQPkkItmYQghlhrl+FyUMe
-zwIETjfXqeMyigjDQsMU3Ku5OICRbKyvN93sTRdhSGgYiAT67LO7dXHNo7KJHgYDMdrNJmQh
-2cfR2wpv+qNgQCbDVFGDydFCt6fvIzQdAYORs3ZtiHJQDDOtI5NucBgMaUxx1d3CGdjo9jQw
-DJVCGVNUvBVI/upK91D9flQc8RjQFLqsRot+3lNGpcTfD3mmuUQAIs2FdLcR6e8rlSZKeszL
-OmdLvLXS1aTSS1BLI3xA63ugEeXTZt+jpqhh9vynYPow6cOkD5M+TPow6cOkD5M+TPow6cOk
-D5M+TPow6cOkD5M+TPow6cOkDxPxKyehYYyvnIR4zR1GHV8X/kZd8nWQt87/SlSYH1Shw1Br
-g02kAAAAAElFTkSuQmCC'
+	^ (((FileDirectory default
+		directoryNamed: 'imgs')
+		directoryNamed: 'Arduino-Etoys')
+		directoryNamed: 'RelayMorph')
+		fileNamed: 'form.png' do: [:file |
+			form := PNGReadWriter formFromStream: file]

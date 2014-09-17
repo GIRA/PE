@@ -1,3 +1,6 @@
 form
 form
-^form ifNil: [self initializeForm]
+	"
+	form := nil.
+	"
+	^ form ifNil: [self initializeForm]

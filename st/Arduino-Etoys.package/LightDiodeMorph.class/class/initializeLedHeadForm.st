@@ -1,8 +1,8 @@
 form
-initializeForm
+initializeLedHeadForm
 	^ (((FileDirectory default
 		directoryNamed: 'imgs')
 		directoryNamed: 'Arduino-Etoys')
 		directoryNamed: 'LightDiodeMorph')
-		fileNamed: 'form.png' do: [:file |
-			form := PNGReadWriter formFromStream: file]
+		fileNamed: 'ledHeadForm.png' do: [:file |
+			ledHeadForm := PNGReadWriter formFromStream: file]

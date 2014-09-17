@@ -1,8 +1,9 @@
 {
 	"category" : "PhysicalEtoys-Utilities",
 	"classinstvars" : [
+		"physicalEtoysForm",
 		"baseRepositories",
-		"physicalEtoysForm" ],
+		"uaiLogoForm" ],
 	"classvars" : [
 		 ],
 	"commentStamp" : "",

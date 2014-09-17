@@ -1,12 +1,8 @@
 form
 initializeForm
-^form :=  PEUtilities formFromEncodedPNG:  'iVBORw0KGgoAAAANSUhEUgAAAC0AAAA3CAYAAACYV8NnAAAABHNCSVQFBQUBSsjp7wAAAcRJ
-REFUeF7lmaGSgzAQhiORyEpkZWVlZWUlEomsRFZWIpFIJJJHOIlE3mOc28syR6/TI+ymHLCZ
-7Mw/O8xsk69/kk2HqiUjjmM4HA6w3++NWUkLhH4GHPT8LBLaSacvlwtMZZHQu90OwjA0ZpHQ
-CDaltwdeSufzmXT6nXGV6VRPPQdBoB0KyIyinI6iyGr+0+kEijrdY3kA4ohyeoDmzt9D2zj8
-21t5wOg45TTC28zvttO2e/q/nbaZH7/kW04jDFcINpVfAancm2YDIEG90zb7U4LcheZeFFJy
-3z2o0y1NSZKAovqotJymqf9O+++0/07777T/Tvvv9AJOm35oU5pTj9m2flCWZebXDrfbDe73
-O5jy2vWsmBoQ89r1rHDS6aIojAOWZQlr11tFnuePAXGiretZUdf1w4GmaWDrelZUVfVwgjPo
-0vU8aL1k+fUKhe6PNWP5lq5nRXs8QqebfavVSfy7YSw6fSN9aPXwrkC3CPwD/smE/lIKUJs7
-jepcgXbaaWpPD6Am/f0E9QpsjtMatGVsD1HQzu1pvKXGJBZ6AHxdZg74JtAmYBvwTVymDpb/
-0P5Duwbt3EGc2/JEgNteLkvHNxOTNSxBILeUAAAAAElFTkSuQmCC'
+	^ (((FileDirectory default
+		directoryNamed: 'imgs')
+		directoryNamed: 'Arduino-Etoys')
+		directoryNamed: 'SwitchMorph')
+		fileNamed: 'form.png' do: [:file |
+			form := PNGReadWriter formFromStream: file]
